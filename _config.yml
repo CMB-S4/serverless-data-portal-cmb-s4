@@ -1,0 +1,6 @@
+theme: minima
+title: CMB S4 Repository POC
+description: An example of how to host research data using existing services.
+show_downloads: false
+header_pages:
+  - /#datasets
