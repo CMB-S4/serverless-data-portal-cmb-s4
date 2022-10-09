@@ -93,8 +93,8 @@ datasets through pull requests.
 ## Datasets
 
 | Access | Name |  Creator | Created | Number of Files |
-| Public |  [(Mock) BOUNDEDNESS285G](BOUNDEDNESS285.html)   | Rick Wagner | 2022-08-30 | 28 |
-| Public |  [(Mock) PRONENESS405F](PRONENESS405.html)   | Rick Wagner | 2022-09-06 | 28 |
+| Public |  [(Mock) BOUNDEDNESS285G](catalog/BOUNDEDNESS285.html)   | Rick Wagner | 2022-08-30 | 28 |
+| Public |  [(Mock) PRONENESS405F](catalog/PRONENESS405.html)   | Rick Wagner | 2022-09-06 | 28 |
 | [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) NONMUCILAGINOUS197C](catalog/NONMUCILAGINOUS197.html)   |  Rick Wagner | 2022-09-03 | 28 |
 | [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) ORLEWISE861S](catalog/ORLEWISE861.html)   | Rick Wagner | 2022-09-08 | 28 |
 | [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) PSYCHOSOCIAL631N](catalog/PSYCHOSOCIAL631.html)   | Rick Wagner | 2022-08-24 | 28 |
