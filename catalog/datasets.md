@@ -197,1055 +197,1055 @@
 ## Quick Pol, Folder `inbox/quickpol/`
 
 | Filename | Size (bytes) |
-| `inbox/quickpol/Bl_TEB_npipe6v20_000Ax000A_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_000Bx000B_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_000GHzx000GHz_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030A_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030B_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx030GHz_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx100GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx143GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx217GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx353GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044A_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044B_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx044GHz_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx100GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx143GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx217GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx353GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070A_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070B_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx100A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx100B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx143A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx143B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx217A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx217B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx353A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx353B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx070GHz_only_E_tf_60fsky.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx100GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx143GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx217GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx353GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100A_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100B_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx100GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx100GHz_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx143GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx217GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx353GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143A_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143B_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx100GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx143GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx143GHz_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx217GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx353GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217A_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217B_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx100GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx143GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx217GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx217GHz_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx353GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353A_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx030A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx030B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx044A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx044B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx070A.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx070B.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx100A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx100B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx143A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx143B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx217A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx217B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353A.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353B.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353B_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx030GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx044GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx070GHz.fits` | `195840 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx100GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx143GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx217GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx353GHz.fits` | `380160 ` |
-| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx353GHz_only_E_tf_60fsky.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_000Ax000B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax044B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax070B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax100B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax143B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax217B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx070GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx100GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx143GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx217GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax044B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax070B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax100B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax143B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax217B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx100GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx143GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx217GHz_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax044B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax070B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax100B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax143B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax217B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100GHzx143GHz_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100GHzx217GHz_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax044B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax070B_only_E_tf.fits` 195840 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax100B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax143B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax217B_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143GHzx217GHz_only_E_tf.fits` 380160 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Ax857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030Bx857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx100GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx143GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx217GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx353GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx545GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_030GHzx857GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Ax857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044Bx857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx100GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx143GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx217GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx353GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx545GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_044GHzx857GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Ax857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx100A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx100B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx143A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx143B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx217A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx217B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx353A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx353B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx545A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx545B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx857A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070Bx857B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx100GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx143GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx217GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx353GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx545GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_070GHzx857GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-1ax100-1a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-1bx100-1b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-1x100-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-2ax100-2a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-2bx100-2b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-2x100-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-3ax100-3a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-3bx100-3b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-3x100-3.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-4ax100-4a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-4bx100-4b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100-4x100-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_100GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-1ax143-1a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-1bx143-1b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-1x143-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-2ax143-2a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-2bx143-2b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-2x143-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-3ax143-3a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-3bx143-3b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-3x143-3.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-4ax143-4a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-4bx143-4b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-4x143-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-5x143-5.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-6x143-6.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143-7x143-7.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_143GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-1x217-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-2x217-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-3x217-3.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-4x217-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-5ax217-5a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-5bx217-5b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-5x217-5.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-6ax217-6a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-6bx217-6b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-6x217-6.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-7ax217-7a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-7bx217-7b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-7x217-7.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-8ax217-8a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-8bx217-8b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217-8x217-8.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_217GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-1x353-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-2x353-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-3ax353-3a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-3bx353-3b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-3x353-3.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-4ax353-4a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-4bx353-4b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-4x353-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-5ax353-5a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-5bx353-5b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-5x353-5.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-6ax353-6a.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-6bx353-6b.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-6x353-6.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-7x353-7.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353-8x353-8.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_353GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545-1x545-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545-2x545-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545-4x545-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_545GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857-1x857-1.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857-2x857-2.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857-3x857-3.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857-4x857-4.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Ax857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx030A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx030B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx044A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx044B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx070A.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx070B.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx100A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx100B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx143A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx143B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx217A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx217B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx353A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx353B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx545A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx545B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx857A.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857Bx857B.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx030GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx044GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx070GHz.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx100GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx143GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx217GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx353GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx545GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_857GHzx857GHz.fits` | `129600 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI18MxLFI18M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI18SxLFI18S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI18xLFI18.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI19MxLFI19M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI19SxLFI19S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI19xLFI19.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI20MxLFI20M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI20SxLFI20S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI20xLFI20.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI21MxLFI21M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI21SxLFI21S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI21xLFI21.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI22MxLFI22M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI22SxLFI22S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI22xLFI22.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI23MxLFI23M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI23SxLFI23S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI23xLFI23.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI24MxLFI24M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI24SxLFI24S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI24xLFI24.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI25MxLFI25M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI25SxLFI25S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI25xLFI25.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI26MxLFI26M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI26SxLFI26S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI26xLFI26.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI27MxLFI27M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI27SxLFI27S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI27xLFI27.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI28MxLFI28M.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI28SxLFI28S.fits` | `69120 ` |
-| `inbox/quickpol/Bl_npipe6v20_LFI28xLFI28.fits` | `69120 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Ax353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030Bx353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx100GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx143GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx217GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_030GHzx353GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Ax353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044Bx353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx100GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx143GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx217GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_044GHzx353GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Ax353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx100A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx100B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx143A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx143B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx217A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx217B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx353A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070Bx353B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx100GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx143GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx217GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_070GHzx353GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Ax353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100Bx353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx100GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx143GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx217GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_100GHzx353GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Ax353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143Bx353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx100GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx143GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx217GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_143GHzx353GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Ax353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217Bx353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx100GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx143GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx217GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_217GHzx353GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Ax353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx030A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx030B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx044A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx044B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx070A.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx070B.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx100A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx100B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx143A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx143B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx217A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx217B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx353A.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353Bx353B.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx030GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx044GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx070GHz.fits` | `624960 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx100GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx143GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx217GHz.fits` | `1212480 ` |
-| `inbox/quickpol/Wl_npipe6v20_353GHzx353GHz.fits` | `1212480 `
+| `inbox/quickpol/Bl_TEB_npipe6v20_000Ax000A_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_000Bx000B_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_000GHzx000GHz_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030A_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Ax353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx030B_only_E_tf_60fsky.fits` |  `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030Bx353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx030GHz_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx100GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx143GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx217GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_030GHzx353GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044A_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Ax353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx044B_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044Bx353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx044GHz_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx100GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx143GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx217GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_044GHzx353GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070A_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Ax353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx070B_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx100A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx100B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx143A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx143B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx217A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx217B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx353A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070Bx353B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx070GHz_only_E_tf_60fsky.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx100GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx143GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx217GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_070GHzx353GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100A_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Ax353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx100B_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100Bx353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx100GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx100GHz_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx143GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx217GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_100GHzx353GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143A_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Ax353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx143B_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143Bx353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx100GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx143GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx143GHz_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx217GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_143GHzx353GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217A_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Ax353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx217B_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217Bx353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx100GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx143GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx217GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx217GHz_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_217GHzx353GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353A_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Ax353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx030A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx030B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx044A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx044B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx070A.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx070B.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx100A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx100B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx143A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx143B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx217A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx217B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353A.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353B.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353Bx353B_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx030GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx044GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx070GHz.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx100GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx143GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx217GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx353GHz.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_npipe6v20_353GHzx353GHz_only_E_tf_60fsky.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_000Ax000B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax044B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax070B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax100B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax143B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044Ax217B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx070GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx100GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx143GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_044GHzx217GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax044B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax070B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax100B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax143B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070Ax217B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx100GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx143GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_070GHzx217GHz_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax044B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax070B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax100B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax143B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100Ax217B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100GHzx143GHz_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_100GHzx217GHz_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax044B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax070B_only_E_tf.fits` | `195840` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax100B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax143B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143Ax217B_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_TEB_xQML_npipe6v20_143GHzx217GHz_only_E_tf.fits` | `380160` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Ax857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030Bx857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx100GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx143GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx217GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx353GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx545GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_030GHzx857GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Ax857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044Bx857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx100GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx143GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx217GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx353GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx545GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_044GHzx857GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Ax857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx100A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx100B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx143A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx143B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx217A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx217B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx353A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx353B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx545A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx545B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx857A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070Bx857B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx100GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx143GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx217GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx353GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx545GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_070GHzx857GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100-1ax100-1a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-1bx100-1b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-1x100-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-2ax100-2a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-2bx100-2b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-2x100-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-3ax100-3a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-3bx100-3b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-3x100-3.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-4ax100-4a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-4bx100-4b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100-4x100-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_100GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-1ax143-1a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-1bx143-1b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-1x143-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-2ax143-2a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-2bx143-2b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-2x143-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-3ax143-3a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-3bx143-3b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-3x143-3.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-4ax143-4a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-4bx143-4b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-4x143-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-5x143-5.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-6x143-6.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143-7x143-7.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_143GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-1x217-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-2x217-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-3x217-3.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-4x217-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-5ax217-5a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-5bx217-5b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-5x217-5.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-6ax217-6a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-6bx217-6b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-6x217-6.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-7ax217-7a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-7bx217-7b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-7x217-7.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-8ax217-8a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-8bx217-8b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217-8x217-8.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_217GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-1x353-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-2x353-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-3ax353-3a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-3bx353-3b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-3x353-3.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-4ax353-4a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-4bx353-4b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-4x353-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-5ax353-5a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-5bx353-5b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-5x353-5.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-6ax353-6a.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-6bx353-6b.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-6x353-6.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-7x353-7.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353-8x353-8.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_353GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545-1x545-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545-2x545-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545-4x545-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_545GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857-1x857-1.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857-2x857-2.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857-3x857-3.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857-4x857-4.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Ax857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx030A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx030B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx044A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx044B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx070A.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx070B.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx100A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx100B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx143A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx143B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx217A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx217B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx353A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx353B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx545A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx545B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx857A.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857Bx857B.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx030GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx044GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx070GHz.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx100GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx143GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx217GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx353GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx545GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_857GHzx857GHz.fits` | `129600` |
+| `inbox/quickpol/Bl_npipe6v20_LFI18MxLFI18M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI18SxLFI18S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI18xLFI18.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI19MxLFI19M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI19SxLFI19S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI19xLFI19.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI20MxLFI20M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI20SxLFI20S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI20xLFI20.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI21MxLFI21M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI21SxLFI21S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI21xLFI21.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI22MxLFI22M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI22SxLFI22S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI22xLFI22.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI23MxLFI23M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI23SxLFI23S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI23xLFI23.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI24MxLFI24M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI24SxLFI24S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI24xLFI24.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI25MxLFI25M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI25SxLFI25S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI25xLFI25.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI26MxLFI26M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI26SxLFI26S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI26xLFI26.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI27MxLFI27M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI27SxLFI27S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI27xLFI27.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI28MxLFI28M.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI28SxLFI28S.fits` | `69120` |
+| `inbox/quickpol/Bl_npipe6v20_LFI28xLFI28.fits` | `69120` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Ax353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030Bx353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx100GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx143GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx217GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_030GHzx353GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Ax353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044Bx353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx100GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx143GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx217GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_044GHzx353GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Ax353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx100A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx100B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx143A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx143B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx217A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx217B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx353A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070Bx353B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx100GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx143GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx217GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_070GHzx353GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Ax353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100Bx353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx100GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx143GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx217GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_100GHzx353GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Ax353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143Bx353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx100GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx143GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx217GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_143GHzx353GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Ax353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217Bx353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx100GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx143GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx217GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_217GHzx353GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Ax353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx030A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx030B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx044A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx044B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx070A.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx070B.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx100A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx100B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx143A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx143B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx217A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx217B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx353A.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353Bx353B.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx030GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx044GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx070GHz.fits` | `624960` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx100GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx143GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx217GHz.fits` | `1212480` |
+| `inbox/quickpol/Wl_npipe6v20_353GHzx353GHz.fits` | `1212480` |
 
 ## Single, Folder `inbox/single/`
 
