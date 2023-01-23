@@ -55,11 +55,21 @@ The catalog is completely public while the datasets are grouped into three level
 - [CMB-S4 Users (POC)](#cmb-s4-users-poc): Registration required
 - [CMB-S4 Collaborators (POC)](#cmb-s4-collaborators-poc):  Moderated access, approval required
 
+Data access is controlled by the per-folder permissions on the [CMB S4
+Data Portal POC Globus
+Collection](https://app.globus.org/file-manager/collections/38f01147-f09e-483d-a552-3866669a846d/sharing). ([Globus
+documentation on how to manage permissions.](https://docs.globus.org/how-to/share-files/))
+
+**Note:** Globus Groups can also be used to define groups of data
+stewards and administrators.
+
 ### Public Access
 
 Public is completely public, including anonymous access via HTTPS. 
 
 ### CMB-S4 Users (POC)
+
+**Note:** This Group is currently set to approval required.
 
 Any logged in Globus user may join the [CMB-S4 Users (POC)](https://app.globus.org/groups/f6c4ab39-9aa9-11ed-bd74-ff3b77a8cdd3/about)
 Globus Group, provided they accept the terms & conditions. This does
