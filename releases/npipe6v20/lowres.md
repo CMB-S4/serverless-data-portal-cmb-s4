@@ -17,13 +17,19 @@ Low resolution dataset
 
 Keywords: image
 
-
 ## Data Access
 
+Access to this dataset requires accepting terms and conditions. Join the Globus Group [CMB-S4 Users (POC)](https://app.globus.org/groups/f6c4ab39-9aa9-11ed-bd74-ff3b77a8cdd3/about) to acknowledge acceptance.
+
+[Join Group](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join)
+
+This dataset is available via Globus Transfer or HTTPS. [Click here](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fdatareleases%2Fnpipe6v20%2Flowres%2F) to view the files in the Globus web app.
 
 ## Files
 
-https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/lowres/manifest.txt
+- Number of files: 63
+- Total size: 155.4 GiB
+- [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/lowres/manifest.json)
 
 |                                                                                File Name                                                                                 |   Size    |     Hash     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------ |

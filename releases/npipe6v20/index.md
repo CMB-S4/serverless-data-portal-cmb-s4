@@ -17,6 +17,7 @@ such as release date, etc.
 ## Datasets
 
 | Access | Name | Number of Files | Total Size |
-| [All Users](https://app.globus.org/groups/f6c4ab39-9aa9-11ed-bd74-ff3b77a8cdd3/join) | [Low Resolution](lowres.html)   |  28 | XX GB |
-| [Restricted](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/join) | [Full Sky](fullsky.html)   | 28 | XX GB |
+| ------ | ---- | --------- | ------ |
+| [All Users](https://app.globus.org/groups/f6c4ab39-9aa9-11ed-bd74-ff3b77a8cdd3/join) | [Low Resolution](lowres.html)   |  63 | 155.4 GiB |
+| [Restricted](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/join) | [Full Sky](fullsky.html)   | 27 | 10.4 GiB |
 

@@ -17,6 +17,9 @@ def sizeof_fmt(num, suffix="B"):
 with open('manifest.json') as f:
     file_list = json.load(f)
 
+nfiles = len(file_list)
+nbytes = 0
+    
 table_header = ["File Name", "Size", "Hash"]
 table_data = []
 
@@ -25,6 +28,7 @@ for filedata in file_list:
     fsize = sizeof_fmt(filedata['length'])
     fhash = f"`..{filedata['sha512'][:8]}`"
     table_data.append([fname, fsize, fhash])
+    nbytes += filedata['length']
     
 writer = MarkdownTableWriter(
     table_name="example_table",
@@ -35,3 +39,7 @@ writer = MarkdownTableWriter(
 
 with open('file-table.md', 'w') as f:
     f.write(writer.dumps())
+
+    
+total_size = sizeof_fmt(nbytes)    
+print(f"number of files {nfiles}, total size {total_size}")
