@@ -9,7 +9,6 @@ date_created: "2023-01-22"
 
 - [TOAST NPIPE 6v20](releases/npipe6v20/)
 
-
 # CMB-S4 Data Repository POC
 
 This is a proof-of-concept of how to host dataset files in Globus collections while
@@ -46,9 +45,11 @@ seo:
 ---
 ```
 
-- Manifest
-- download links
-- other metadata
+- Dataset folders contain a JSON file (`manifest.json`) using the BDBag [remote file manifest
+format](https://github.com/fair-research/bdbag/blob/master/doc/config.md#remote-file-manifest).
+- Links to individual files and a to the folder in the Globus web app
+  are provided
+
 
 ## Data Access
 
