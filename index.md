@@ -1,78 +1,92 @@
-[Browse the catalog](#datasets)
+---
+title: "CMB-S4 Data Repository POC"
+author: "CMB-S4 Collaboration"
+description: "Proof-of-concept data repository for the CMB-S4 Collaboration"
+date_created: "2023-01-22"
+---
 
-This POC Data Repository contains datasets of
-randomly-generated images. 
+## Data Releases
 
-(The names of the datasets and images are also random.)
+- [TOAST NPIPE 6v20](releases/npipe6v20/)
 
-## Examples
+# CMB-S4 Data Repository POC
 
-<table>
-	<tr>
-	<td>
-		<img src="https://g-079c7d.ca528.03c0.data.globus.org/public/unostentation-exhalation.png"
-		alt="random image" width="200"/> 
-	</td>
-	<td>
-		<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
-	alt="random image" width="200"/> 
-	</td>
-</tr>
-<tr>
-<td>
-	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
-	alt="random image" width="200"/> 
-	</td>
-	<td>
-	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
-	alt="random image" width="200"/> 
-	</td>
-	</tr>
-</table>
+This is a proof-of-concept of how to host dataset files in Globus collections while
+providing a publicly available site for data discovery. The site is
+hosted using [GitHub Pages](https://pages.github.com), a free service
+that can deploy sites written in Markdown. Because the Globus
+collection hosting the datasets provides HTTPS access, files from the
+collection can be downloaded via browser or copied using Globus Transfer.
+
+## Data Organization
+
+This site represents the catalog, with metadata about the catalog
+itself and the datasets in the repository. Data is grouped hierarchically:
+- Releases
+- Datasets
+- Files
+
+## Datasets
+
+Datasets are contained within a folder with one or more files and may
+have subfolders. These datasets are grouped by releases. Dataset folders contain a JSON file (`manifest.json`) using the BDBag [remote file manifest
+format](https://github.com/fair-research/bdbag/blob/master/doc/config.md#remote-file-manifest). Links
+to individual files and a to the folder in the Globus web app
+  are provided.
+
+[Jekyll SEO Tag](https://jekyll.github.io/jekyll-seo-tag/) provides
+Schema.org JSON-LD in the HTML headers. This is built from the YAML in
+the Markdown file headers which labels the pages as describing datasets.
+
+```
+---
+title: "(Mock) BOUNDEDNESS285G"
+author: "Rick Wagner"
+description: "A few random images as a dataset"
+date_created: "2022-08-30T03:17:24.767050"
+seo:
+  type: Dataset
+---
+```
+
+
 
 ## Data Access
 
-This repository demonstrates how to host dataset files in Globus collections while
-providing a publicly available site for data discovery. [Here are the
-notes](gcs-deploy.html) on setting up the Globus Connect Server and
-[Guest Collection](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68ab&origin_path=%2F).
-
-The site is
-hosted using [GitHub Pages](https://pages.github.com) a free service
-that can deploy sites written in Markdown. Because the Globus
-collection hosting the datasets provides HTTPS access, images from the
-collection are embedded in catalog pages. 
-
-This site represents the catalog, with metadata about the catalog
-itself and the datasets in the repository. The catalog is completely
-public while the datasets are grouped into three levels of access:
+The catalog is completely public while the datasets are grouped into three levels of access:
 
 - [Public](#public-access)
-- [Accept Terms & Conditions (All Users)](#accept-terms--conditions-register)
-- [Moderated Access (Restricted)](#moderated-access-restricted)
+- [CMB-S4 Users (POC)](#cmb-s4-users-poc): Registration required
+- [CMB-S4 Collaborators (POC)](#cmb-s4-collaborators-poc):  Moderated access, approval required
+
+Data access is controlled by the per-folder permissions on the [CMB S4
+Data Portal POC Globus
+Collection](https://app.globus.org/file-manager/collections/38f01147-f09e-483d-a552-3866669a846d/sharing). ([Globus
+documentation on how to manage permissions.](https://docs.globus.org/how-to/share-files/))
+
+**Note:** Globus Groups can also be used to define groups of data
+stewards and administrators.
 
 ### Public Access
 
 Public is completely public, including anonymous access via HTTPS. 
 
-### Accept Terms & Conditions (Register)
+### CMB-S4 Users (POC)
 
-Accept Terms & Conditions means that a user must join the the [Serverless Data
-Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/about)
-Globus Group, provided they accept the terms & conditions. All Globus users
-can join the Group without any actions by repository personnel. This is the “just sign
-up” model where joining the Group provides a list of registered users.
+**Note:** This Group is currently set to approval required.
 
-### Moderated Access (Restricted)
+Any logged in Globus user may join the [CMB-S4 Users (POC)](https://app.globus.org/groups/f6c4ab39-9aa9-11ed-bd74-ff3b77a8cdd3/about)
+Globus Group, provided they accept the terms & conditions. This does
+not require  any actions by repository personnel. This is the “just sign
+up” model where joining the Group provides a list of registered users
+to the Group adminstrators.
 
-Moderated Access means that the user can ask to join the [Serverless
-Data Project
-One](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/about)
-Globus Group, but a group manager must approve members. This is the
-“request access” model.
+### CMB-S4 Collaborators (POC)
+
+Users may request to join the the [CMB-S4 Collaborators
+(POC)](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/about)
+Globus Group. Membership in the Group must be approved by an
+adminstrator. This is the “request access” model.
 
 To support datasets with different access requirements, datasets could
 be gather into folders with access tied to various Globus Groups. This
@@ -89,19 +103,3 @@ datasets on [ReadTheDocs](https://readthedocs.org). Because the
 dataset metadata is on Github in the [TomoBank
 repo](https://github.com/tomography/tomobank), users can submit new
 datasets through pull requests.
-
-## Datasets
-
-| Access | Name |  Creator | Created | Number of Files |
-| Public |  [(Mock) BOUNDEDNESS285G](catalog/BOUNDEDNESS285.html)   | Rick Wagner | 2022-08-30 | 28 |
-| Public |  [(Mock) PRONENESS405F](catalog/PRONENESS405.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) NONMUCILAGINOUS197C](catalog/NONMUCILAGINOUS197.html)   |  Rick Wagner | 2022-09-03 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) ORLEWISE861S](catalog/ORLEWISE861.html)   | Rick Wagner | 2022-09-08 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) PSYCHOSOCIAL631N](catalog/PSYCHOSOCIAL631.html)   | Rick Wagner | 2022-08-24 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) CENTILLION440W](catalog/CENTILLION440.html)   | Rick Wagner | 2022-09-12 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGA679S](catalog/MAGA679.html)   | Rick Wagner | 2022-08-29 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) POLYBORINAE498S](catalog/POLYBORINAE498.html)   | Rick Wagner | 2022-08-24 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) AUTACOIDAL812S](catalog/AUTACOIDAL812.html)   | Rick Wagner | 2022-09-11 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGNETOMOTIVE835Q](catalog/MAGNETOMOTIVE835.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) DECORABLE727P](catalog/DECORABLE727.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) HISTOZOIC885G](catalog/HISTOZOIC885.html)   | Rick Wagner | 2022-09-14 | 28 |
