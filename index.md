@@ -5,7 +5,10 @@ description: "Proof-of-concept data repository for the CMB-S4 Collaboration"
 date_created: "2023-01-22"
 ---
 
-[Browse the repository](#releases)
+## Data Releases
+
+- [TOAST NPIPE 6v20](releases/npipe6v20/)
+
 
 # CMB-S4 Data Repository POC
 
@@ -89,10 +92,6 @@ be gather into folders with access tied to various Globus Groups. This
 also allows different projects to curate access to their
 datasets, where PIs or their delegates can be assigned as Group
 managers. Then they receive and decide on access requests.
-
-## Releases
-
-- [TOAST NPIPE 6v20](releases/npipe6v20/)
 
 ## Prior Art
 
