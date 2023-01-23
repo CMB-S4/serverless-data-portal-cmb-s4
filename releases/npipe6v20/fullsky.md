@@ -7,7 +7,7 @@ seo:
   type: Dataset
 ---
 
-[Back to release](../#datasets)
+[Back to release](./#datasets)
 
 # Dataset: Full Sky
 
@@ -17,7 +17,7 @@ Full sky dataset
 
 ## Data Access
 
-Access to this dataset requires approval. Requst to join the Globus Group CMB-S4 Collaborators
+Access to this dataset requires approval. Requst to join the Globus Group [CMB-S4 Collaborators
 (POC)](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/about) for access.
 
 [Request Access](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/join)

@@ -7,7 +7,7 @@ seo:
   type: Dataset
 ---
 
-[Back to release](../#datasets)
+[Back to release](./#datasets)
 
 # Dataset: (Mock) Low Resolution
 
