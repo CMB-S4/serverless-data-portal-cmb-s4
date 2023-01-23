@@ -29,10 +29,14 @@ itself and the datasets in the repository. Data is grouped hierarchically:
 ## Datasets
 
 Datasets are contained within a folder with one or more files and may
-have subfolders. These datasets are grouped by releases.
+have subfolders. These datasets are grouped by releases. Dataset folders contain a JSON file (`manifest.json`) using the BDBag [remote file manifest
+format](https://github.com/fair-research/bdbag/blob/master/doc/config.md#remote-file-manifest). Links
+to individual files and a to the folder in the Globus web app
+  are provided.
 
 [Jekyll SEO Tag](https://jekyll.github.io/jekyll-seo-tag/) provides
-Schema.org JSON-LD 
+Schema.org JSON-LD in the HTML headers. This is built from the YAML in
+the Markdown file headers which labels the pages as describing datasets.
 
 ```
 ---
@@ -45,10 +49,6 @@ seo:
 ---
 ```
 
-- Dataset folders contain a JSON file (`manifest.json`) using the BDBag [remote file manifest
-format](https://github.com/fair-research/bdbag/blob/master/doc/config.md#remote-file-manifest).
-- Links to individual files and a to the folder in the Globus web app
-  are provided
 
 
 ## Data Access
