@@ -4,7 +4,7 @@ description: An example of how to host research data using existing services.
 topnav_title: CMB-S4 Data Portal
 site_title: CMB-S4 Data Portal
 company_name: CMB-S4 Collaboration
-github_editme_path: CMB-S4/serverless-data-portal-cmb-s4/blob/gh-pages/
+github_editme_path: CMB-S4/serverless-data-portal-cmb-s4/blob/main/
 
 show_downloads: false
 header_pages:
