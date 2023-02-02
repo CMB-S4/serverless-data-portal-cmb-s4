@@ -8,7 +8,7 @@ entries:
   - title: NPIPE 6v20
     output: web
     folderitems:
-    - title: NPIPE 6v20
+    - title: NPIPE 6v20 release page
       url: /serverless-data-portal-cmb-s4/releases/npipe6v20/
       output: web
     - title: Low resolution
