@@ -9,11 +9,11 @@ entries:
     output: web
     folderitems:
     - title: NPIPE 6v20 release page
-      url: /serverless-data-portal-cmb-s4/releases/npipe6v20/
+      url: "/releases/npipe6v20/"
       output: web
     - title: Low resolution
-      url: /serverless-data-portal-cmb-s4/releases/npipe6v20/lowres.html
+      url: "/releases/npipe6v20/lowres.html"
       output: web
     - title: Full Sky (Restricted)
-      url: /serverless-data-portal-cmb-s4/releases/npipe6v20/fullsky.html
+      url: "/releases/npipe6v20/fullsky.html"
       output: web
