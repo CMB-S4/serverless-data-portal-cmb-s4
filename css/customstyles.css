@@ -1201,3 +1201,7 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.navbar-static-top {
+    background-image: url(/serverless-data-portal-cmb-s4/images/cmb-s4-atacama-south-pole.jpg);
+}
