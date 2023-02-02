@@ -9,11 +9,11 @@ entries:
     output: web
     folderitems:
     - title: NPIPE 6v20 release page
-      url: "/releases/npipe6v20/"
+      url: "npipe6v20.html"
       output: web
     - title: Low resolution
-      url: "/releases/npipe6v20/lowres.html"
+      url: "npipe6v20_lowres.html"
       output: web
     - title: Full Sky (Restricted)
-      url: "/releases/npipe6v20/fullsky.html"
+      url: "npipe6v20_fullsky.html"
       output: web

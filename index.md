@@ -7,7 +7,7 @@ date_created: "2023-01-22"
 
 ## Data Releases
 
-- [TOAST NPIPE 6v20](releases/npipe6v20/)
+- [TOAST NPIPE 6v20](npipe6v20.html)
 
 # CMB-S4 Data Repository POC
 
