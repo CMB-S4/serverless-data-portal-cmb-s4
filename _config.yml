@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: CMB-S4/serverless-data-portal-cmb-s4-template
 title: CMB S4 Repository POC
 description: An example of how to host research data using existing services.
 show_downloads: false
