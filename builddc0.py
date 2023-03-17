@@ -97,6 +97,9 @@ for split in splits:
         dset_url = f'[Link](dc0-chlat-split{split}-{band}.html)'
         dc0_dsets_table_data.append([dset_url, 'CHLAT', f'`{split}`', f'`{band}`', f'`{n_files}`', dset_size])
 
+
+
+        
 writer = MarkdownTableWriter(
     headers=dc0_dsets_table_header,
     value_matrix=dc0_dsets_table_data,
@@ -105,3 +108,16 @@ writer = MarkdownTableWriter(
 
 with open('dc0-dset-table.md', 'w') as f:
     f.write(writer.dumps())
+
+with open('dc0-sidebar.yml', 'w') as f:
+    f.write('  - title: CMB-S4 Data Challenge 0 (DC0)\n')
+    f.write('    output: web\n')
+    f.write('    folderitems:\n')
+    f.write('    - title: Data Challenge 0 Release Page\n')
+    f.write('      url: "dc0.html"\n')
+    f.write('      output: web\n')
+    for split in splits:
+        for band in bands:
+            f.write(f'    - title: DC0 CHLAT Split{split} {band}\n')
+            f.write(f'      url: "dc0-chlat-split{split}-{band}.html"\n')
+            f.write(f'      output: web\n')
