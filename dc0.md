@@ -15,7 +15,7 @@ TODO: Awesome description goes here.
 
 ## Data Access
 
-Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group. You may request to [join the CMB-S4 Collaborators Globus Group](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/join) and your request will be reviewed.
+Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group. You may request to [join the CMB-S4 Globus Group](https://app.globus.org/groups/49966b08-15a6-11ec-ac5b-5fee5047b788/join) and your request will be reviewed.
 
 Data can be download over HTTPS or using [Globus Connect](https://www.globus.org/globus-connect).
 
