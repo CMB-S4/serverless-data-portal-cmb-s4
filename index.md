@@ -7,6 +7,7 @@ date_created: "2023-01-22"
 
 ## Data Releases
 
+- [Data Challenge 0 (DC0)](dc0.html)
 - [TOAST NPIPE 6v20](npipe6v20.html)
 
 # CMB-S4 Data Repository POC

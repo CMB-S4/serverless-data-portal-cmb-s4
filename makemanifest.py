@@ -26,8 +26,11 @@
 # checksum command
 # sha512sum *.fits > manifest.txt
 
+import os
 import sys
 import json
+import glob
+import hashlib
 
 baseurl = sys.argv[1]
 # baseurl = 'https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/fullsky/'
@@ -35,26 +38,28 @@ baseurl = sys.argv[1]
 # URL that filename will be appended to
 # https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/fullsky/
 
+BUFFER = 4*1073741824
+
 manifest_dict = {}
-
-f = open('manifest.txt')
-line = f.readline()
-while line:
-    sha512, fname = line.strip().split()
-    manifest_dict[fname] = {'sha512': sha512,
-                                'filename': fname,
-                                'url': baseurl + fname}
-    line = f.readline()
-   
-with open('file-list.json') as f:
-    file_list = json.load(f)
-
-file_list = file_list['DATA']
-
-for file in file_list:
-    fname = file['name']
-    if fname != 'manifest.txt':
-        manifest_dict[fname]['length'] = file['size']
+l = glob.glob("**", recursive=True)
+try:
+    l.remove('manifest.json')
+except:
+    pass
+for i in l:
+    if not os.path.isdir(i):
+        sha512 = hashlib.sha512()
+        with open(i, "rb") as f:
+            while True:
+                data = f.read(BUFFER)
+                if not data:
+                    break
+                sha512.update(data)
+        length = os.stat(i).st_size
+        manifest_dict[i] = {'sha512': sha512.hexdigest(),
+                            'filename': i,
+                            'url': baseurl + i,
+                            'length': length}
 
 with open('manifest.json', 'w') as f:
     json.dump(list(manifest_dict.values()), f, indent=4)
