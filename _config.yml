@@ -10,6 +10,7 @@ header_pages:
   - /#datasets
 
 highlighter: rouge
+feedback_link: https://github.com/CMB-S4/serverless-data-portal-cmb-s4/issues/new
 
 markdown: kramdown
 kramdown:
