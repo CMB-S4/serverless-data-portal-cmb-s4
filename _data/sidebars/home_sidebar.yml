@@ -5,6 +5,15 @@ entries:
   levels: one
   folders:
 
+  - title: CMB-S4 Data Challenge 0 (DC0)
+    output: web
+    folderitems:
+    - title: Data Challenge 0 Release Page
+      url: "dc0.html"
+      output: web
+    - title: DC0 CHLAT Split01 025
+      url: "dc0-chlat-split01-025.html"
+      output: web
   - title: NPIPE 6v20
     output: web
     folderitems:

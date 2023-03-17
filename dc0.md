@@ -35,4 +35,4 @@ The dataset pages provide a link to the dataset's folder in the Globus web app a
 
 | Link | Telescope | Split | Frequency Band (GHz) | Number of Files | Total Size |
 | ---- | ------- | ----- | ---------------------- | --------------- | ---------- |
-| [Link](dc0-chlat-split01-025.html) | Chilean Large Aperture Telescope (CHLAT) | `01` | `025` | `2` | 3.8 GiB |
+| [Link](dc0-chlat-split01-025.html) | CHLAT | `01` | `025` | `2` | 3.8 GiB |
