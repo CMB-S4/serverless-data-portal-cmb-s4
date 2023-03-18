@@ -20,16 +20,20 @@ DC-0 is the first execution of a Data Challenge run, it has been completed only 
 
 Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group.
 
-See the [homepage of the data portal](index.md) for details on how to access the data.
-
+See the [homepage of the data portal](index.md) for details on how to access and download the data.
 
 ## Data Products & Organization
 
-TODO: Pull relevant information from the Data Schema reference document.
+The DC-0 data release includes a single map for each split and for each frequency channel which includes:
 
-- Describe both file organization and the contents of the files.
-- This will be reusable text later and could be split out to separate pages.
-- Include links to tools used by the collaboration.
+* Galactic foregrounds
+* Extragalactic foregrounds
+* Cosmic Microwave Signal
+* Atmospheric and instrumental noise
+
+and a second map which includes the map depth for Temperature and for Polarization.
+
+All other data products are available on the CMB-S4 community filesystem at NERSC.
 
 ## Datasets & Files
 
