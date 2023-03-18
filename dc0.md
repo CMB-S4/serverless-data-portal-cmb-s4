@@ -24,14 +24,15 @@ See the [homepage of the data portal](index.md) for details on how to access and
 
 ## Data Products & Organization
 
-The DC-0 data release includes a single map for each split and for each frequency channel which includes:
+The DC-0 data release includes a single Intensity and Polarization map for each split and for each frequency channel which includes:
 
 * Galactic foregrounds
 * Extragalactic foregrounds
-* Cosmic Microwave Signal
+* Cosmic Microwave Background signal
 * Atmospheric and instrumental noise
 
 and a second map which includes the map depth for Temperature and for Polarization.
+More details about the data products are available in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (not available yet)]().
 
 All other data products are available on the CMB-S4 community filesystem at NERSC.
 
