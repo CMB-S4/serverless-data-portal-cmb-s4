@@ -1,25 +1,27 @@
 ---
 title: "CMB-S4 Data Challenge 0"
 author: "CMB-S4 Collaboration"
-description: "CMB-S4 Data Challenge 0 (DC0)"
+description: "CMB-S4 Data Challenge 0 (DC-0)"
 date_created: "2023-03-16"
 ---
 
-# Data Release: Data Challenge 0 (DC0)
+# Data Release: Data Challenge 0 (DC-0)
 
 ## Description
 
-Data Challenge 0. 
+CMB-S4 Data Challenges involve the simulation, reduction, and analysis of a mock dataset corresponding to the current point design of the instruments and their observations and is used:
 
-TODO: Awesome description goes here.
+* to validate that the point design meets all of the project’s measurement and science requirements
+* to verify that the project pipelines run sufficiently fast on that generation’s computational architecture(s), and scale sufficiently well to the CMB-S4 data volume.
+
+DC-0 is the first execution of a Data Challenge run, it has been completed only for Large Aperture Telescopes located in Chile (`CHLAT`), the rest of the channels are still being worked on.
 
 ## Data Access
 
-Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group. You may request to [join the CMB-S4 Collaborators Globus Group](https://app.globus.org/groups/e3a53329-9aaa-11ed-b37d-b7fded1d3618/join) and your request will be reviewed.
+Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group.
 
-Data can be download over HTTPS or using [Globus Connect](https://www.globus.org/globus-connect).
+See the [homepage of the data portal](index.md) for details on how to access the data.
 
-TODO: Provide basic example doc of how to transfer a folder.
 
 ## Data Products & Organization
 
