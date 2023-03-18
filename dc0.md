@@ -40,6 +40,8 @@ All other data products are available on the CMB-S4 community filesystem at NERS
 
 Depth map for temperature for Chilean LAT in Equatorial coordinates.
 
+Data splits are created by simulating each 1-hour long observation independently, then coadding all of them to create the full mission dataset `Split01` and coadding the observation in a round-robin fashion in 2, 4, 8, 16 and 32 independent maps.
+
 ## Datasets & Files
 
 Files are grouped into datasets by telescope, time split, and frequency band. Each dataset is contained within a single folder and may contain subfolders. The top-level dataset folder contains a JSON file (`manifest.json`) using the BDBag [remote file manifest
