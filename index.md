@@ -24,3 +24,11 @@ Browsing the metadata on the website is always public for any dataset.
 Data access can be restricted dataset by dataset to CMB-S4 Collaboration members or to members of the CMB-S4 Data Management group.
 
 If you are a member of the CMB-S4 Collaboration, you should have received an invite on your registered email address to join the [CMB-S4 Collaboration Globus group](https://app.globus.org/groups/49966b08-15a6-11ec-ac5b-5fee5047b788/) if you get permission denied, please [open an issue in the repository](https://github.com/CMB-S4/serverless-data-portal-cmb-s4/issues/new).
+
+## How to download data
+
+Data can be downloaded locally just by clicking on a link on the website, the browser will first be redirected to Globus for authentication and then the file will be downloaded locally without the need of having any Globus services running locally.
+
+For downloading a large amount of data to a local or a remote machine machine, it is recommended to install [Globus Connect Personal](https://www.globus.org/globus-connect-personal), this also allows to download a complete hierarchy of folders with just 1 click.
+
+For downloading data to a Supercomputer, checkout the documentation on how to access the Globus endpoint which is most probably already available, then use that as the destination endpoint in the [Globus web interface](https://app.globus.org/).
