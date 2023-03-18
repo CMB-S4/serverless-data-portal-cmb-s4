@@ -31,4 +31,6 @@ Data can be downloaded locally just by clicking on a link on the website, the br
 
 For downloading a large amount of data to a local or a remote machine machine, it is recommended to install [Globus Connect Personal](https://www.globus.org/globus-connect-personal), this also allows to download a complete hierarchy of folders with just 1 click.
 
+In order to access the data via the Globus Web App, click on any of the links "Click here to view the files in the Globus web app".
+
 For downloading data to a Supercomputer, checkout the documentation on how to access the Globus endpoint which is most probably already available, then use that as the destination endpoint in the [Globus web interface](https://app.globus.org/).
