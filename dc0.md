@@ -24,7 +24,7 @@ See the [homepage of the data portal](index.md) for details on how to access and
 
 ## Data Products & Organization
 
-The DC-0 data release includes a single Intensity and Polarization map for each split and for each frequency channel which includes:
+The DC-0 data release includes a single Intensity and Polarization HEALPix map in FITS format for each split and for each frequency channel which includes:
 
 * Galactic foregrounds
 * Extragalactic foregrounds
@@ -32,9 +32,13 @@ The DC-0 data release includes a single Intensity and Polarization map for each 
 * Atmospheric and instrumental noise
 
 and a second map which includes the map depth for Temperature and for Polarization.
-More details about the data products are available in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (not available yet)]().
+More details about the data products are available in the map FITS headers and in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (not available yet)]().
 
 All other data products are available on the CMB-S4 community filesystem at NERSC.
+
+![depth map plot](images/cmbs4_dc0_map_depth.png)
+
+Depth map for temperature for Chilean LAT in Equatorial coordinates.
 
 ## Datasets & Files
 
