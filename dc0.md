@@ -18,7 +18,7 @@ DC-0 is the first execution of a Data Challenge run, it has been completed only 
 
 ## Data Access
 
-Data access is restricted to members of the CMB-S4 Collaboration via a Globus Group.
+Data access is currently restricted to members of the CMB-S4 Collaboration via a Globus Group.
 
 See the [homepage of the data portal](index.md) for details on how to access and download the data.
 
