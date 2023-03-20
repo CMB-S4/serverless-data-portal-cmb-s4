@@ -15,7 +15,7 @@ For technical details about the portal, see the [About page](about.md).
 
 ## Data Releases
 
-- [Data Challenge 0 (DC0)](dc0.html) - Data download is restricted to CMB-S4 Collaboration members
+- [Data Challenge 0 (DC0)](dc0.html) - Data download is currently restricted to CMB-S4 Collaboration members
 - [Planck TOAST NPIPE 6v20](npipe6v20.html) - Public
 
 ## Data Access 
