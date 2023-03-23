@@ -21,8 +21,8 @@ The Planck PR4 data is publicly available.
 
 |               Link               | Category  | Number of Files | Total Size |
 | -------------------------------- | --------- | --------------- | ---------- |
-| [Link](plank_pr4-fullsky.html)   | FULLSKY   | `27`            | 10.4 GiB   |
-| [Link](plank_pr4-half_ring.html) | HALF_RING | `90`            | 77.3 GiB   |
-| [Link](plank_pr4-lowres.html)    | LOWRES    | `63`            | 155.4 GiB  |
-| [Link](plank_pr4-quickpol.html)  | QUICKPOL  | `1049`          | 312.7 MiB  |
-| [Link](plank_pr4-single.html)    | SINGLE    | `171`           | 63.7 GiB   |
+| [Link](planck_pr4-fullsky.html)   | FULLSKY   | `27`            | 10.4 GiB   |
+| [Link](planck_pr4-half_ring.html) | HALF_RING | `90`            | 77.3 GiB   |
+| [Link](planck_pr4-lowres.html)    | LOWRES    | `63`            | 155.4 GiB  |
+| [Link](planck_pr4-quickpol.html)  | QUICKPOL  | `1049`          | 312.7 MiB  |
+| [Link](planck_pr4-single.html)    | SINGLE    | `171`           | 63.7 GiB   |
