@@ -29,15 +29,24 @@ entries:
     - title: DC0 CHLAT Full mission maps 280
       url: "dc0-chlat-split01-280.html"
       output: web
-  - title: NPIPE 6v20
+  - title: Planck Public Release 4
     output: web
     folderitems:
-    - title: NPIPE 6v20 release page
-      url: "npipe6v20.html"
+    - title: Planck PR4
+      url: "planck_pr4.html"
       output: web
-    - title: Low resolution
-      url: "npipe6v20_lowres.html"
+    - title: Planck PR4 FULLSKY
+      url: "planck_pr4-fullsky.html"
       output: web
-    - title: Full Sky (Restricted)
-      url: "npipe6v20_fullsky.html"
+    - title: Planck PR4 HALF_RING
+      url: "planck_pr4-half_ring.html"
+      output: web
+    - title: Planck PR4 LOWRES
+      url: "planck_pr4-lowres.html"
+      output: web
+    - title: Planck PR4 QUICKPOL
+      url: "planck_pr4-quickpol.html"
+      output: web
+    - title: Planck PR4 SINGLE
+      url: "planck_pr4-single.html"
       output: web
