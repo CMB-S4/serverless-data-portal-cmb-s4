@@ -17,6 +17,8 @@ Awesome text here.
 
 The Planck PR4 data is publicly available.
 
+Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fpublic%2Fplanck%2Fplanck_pr4%2F)
+
 ## Datasets
 
 |               Link               | Category  | Number of Files | Total Size |
