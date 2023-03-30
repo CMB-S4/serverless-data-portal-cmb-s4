@@ -35,18 +35,18 @@ entries:
     - title: Planck PR4
       url: "planck_pr4.html"
       output: web
-    - title: Planck PR4 FULLSKY
+    - title: Planck PR4 Full sky maps
       url: "planck_pr4-fullsky.html"
       output: web
-    - title: Planck PR4 HALF_RING
+    - title: Planck PR4 Half ring maps
       url: "planck_pr4-half_ring.html"
       output: web
-    - title: Planck PR4 LOWRES
+    - title: Planck PR4 Low resolution
       url: "planck_pr4-lowres.html"
       output: web
-    - title: Planck PR4 QUICKPOL
+    - title: Planck PR4 Effective beams
       url: "planck_pr4-quickpol.html"
       output: web
-    - title: Planck PR4 SINGLE
+    - title: Planck PR4 Single detector
       url: "planck_pr4-single.html"
       output: web
