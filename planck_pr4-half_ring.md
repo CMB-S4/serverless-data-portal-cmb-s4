@@ -9,9 +9,11 @@ seo:
 
 [Back to release](./planck_pr4.html#datasets)
 
-# Dataset: Planck PR4 HALF_RING
+# Dataset: Planck PR4 Half ring maps`
 
-This dataset is publicly available via Globus Transfer or HTTPS. [Click here](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fpublic%2Fplanck%2Fplanck_pr4%2Fhalf_ring%2F) to view the files in the Globus web app.
+Half-ring maps, hitmaps and white noise covariance matrices.
+
+Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fpublic%2Fplanck%2Fplanck_pr4%2Fhalf_ring%2F)
 
 Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/half_ring/manifest.json) for the exact file sizes and checksums.
 

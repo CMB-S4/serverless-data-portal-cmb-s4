@@ -11,7 +11,13 @@ date_created: "2023-03-22"
 
 ## Description
 
-Awesome text here.
+The Planck Public Release 4 is the latest reprocessing of both LFI and HFI instruments data using a common pipeline, NPIPE.
+The effect of the joint analysis is lower levels of noise and systematics in both frequency and component maps at essentially all angular scales, as well as notably improved internal consistency between the various frequency channels.
+
+For more information about the pipeline and the data products, please see:
+
+* [Joint Planck LFI and HFI data processing](https://www.aanda.org/articles/aa/abs/2020/11/aa38073-20/aa38073-20.html) paper
+* [Explanatory supplement for the Planck Legacy Archive](https://wiki.cosmos.esa.int/planck-legacy-archive/index.php/NPIPE_Introduction)
 
 ## Data Access
 
@@ -21,10 +27,12 @@ Access the data through the Globus web interface: [![Download via Globus](images
 
 ## Datasets
 
+Browse the datasets to view the list of files available and download them individually through your browser.
+
 |               Link               | Category  | Number of Files | Total Size |
 | -------------------------------- | --------- | --------------- | ---------- |
-| [Link](planck_pr4-fullsky.html)   | FULLSKY   | `27`            | 10.4 GiB   |
-| [Link](planck_pr4-half_ring.html) | HALF_RING | `90`            | 77.3 GiB   |
-| [Link](planck_pr4-lowres.html)    | LOWRES    | `63`            | 155.4 GiB  |
-| [Link](planck_pr4-quickpol.html)  | QUICKPOL  | `1049`          | 312.7 MiB  |
-| [Link](planck_pr4-single.html)    | SINGLE    | `171`           | 63.7 GiB   |
+| [Link](planck_pr4-fullsky.html)   | Full sky maps   | `27`            | 10.4 GiB   |
+| [Link](planck_pr4-half_ring.html) | Half-ring maps | `90`            | 77.3 GiB   |
+| [Link](planck_pr4-lowres.html)    | Low resolution maps | `63`            | 155.4 GiB  |
+| [Link](planck_pr4-quickpol.html)  | Effective Beams  | `1049`          | 312.7 MiB  |
+| [Link](planck_pr4-single.html)    | Single channel maps | `171`           | 63.7 GiB   |

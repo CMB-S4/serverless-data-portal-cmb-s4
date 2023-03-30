@@ -11,7 +11,9 @@ seo:
 
 # Dataset: Planck PR4 QUICKPOL
 
-This dataset is publicly available via Globus Transfer or HTTPS. [Click here](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fpublic%2Fplanck%2Fplanck_pr4%2Fquickpol%2F) to view the files in the Globus web app.
+Effective beam window functions for all frequency combinations computed with Quickpol.
+
+Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fpublic%2Fplanck%2Fplanck_pr4%2Fquickpol%2F)
 
 Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/quickpol/manifest.json) for the exact file sizes and checksums.
 
