@@ -17,7 +17,7 @@ seo:
 
 See [data access](./dc0.html#data-access) on the DC0 page.
 
-Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fdatareleases%2Fdc0%2Fmission%2Fchlat%2Fsplit32%2F150%2F) to view the files in the Globus web app.
+Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=38f01147-f09e-483d-a552-3866669a846d&origin_path=%2Fdatareleases%2Fdc0%2Fmission%2Fchlat%2Fsplit32%2F150%2F)
 
 Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split32/150/manifest.json) for the exact file sizes and checksums.
 
