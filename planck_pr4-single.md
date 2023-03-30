@@ -23,7 +23,7 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/
 - Total size: 63.7 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/single/manifest.json)
 
-|                                                                    File Name                                                                     | Datatype  | Size |
+|                                                                    File Name                                                                     | Size |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ---- |
 | [`madam_I_iter02_100-1_bmap.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/single/madam_I_iter02_100-1_bmap.fits)   | 192.0 MiB |      |
 | [`madam_I_iter02_100-1a_bmap.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/single/madam_I_iter02_100-1a_bmap.fits) | 192.0 MiB |      |

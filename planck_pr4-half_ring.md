@@ -23,7 +23,7 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/
 - Total size: 77.3 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/half_ring/manifest.json)
 
-|                                                                               File Name                                                                               | Datatype  | Size |
+|                                                                               File Name                                                                               | Size |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- |
 | [`npipe6v20_030_hmap_sub1of2.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/half_ring/npipe6v20_030_hmap_sub1of2.fits)                   | 48.0 MiB  |      |
 | [`npipe6v20_030_hmap_sub2of2.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/half_ring/npipe6v20_030_hmap_sub2of2.fits)                   | 48.0 MiB  |      |

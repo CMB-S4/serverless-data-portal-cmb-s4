@@ -23,7 +23,7 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/
 - Total size: 312.7 MiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/quickpol/manifest.json)
 
-|                                                                                          File Name                                                                                           | Datatype  | Size |
+|                                                                                          File Name                                                                                           | Size |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- |
 | [`Bl_TEB_npipe6v20_000Ax000A_only_E_tf_60fsky.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/quickpol/Bl_TEB_npipe6v20_000Ax000A_only_E_tf_60fsky.fits)         | 371.2 KiB |      |
 | [`Bl_TEB_npipe6v20_000Bx000B_only_E_tf_60fsky.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/quickpol/Bl_TEB_npipe6v20_000Bx000B_only_E_tf_60fsky.fits)         | 371.2 KiB |      |

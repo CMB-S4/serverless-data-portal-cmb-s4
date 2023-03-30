@@ -23,7 +23,7 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/
 - Total size: 10.4 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/fullsky/manifest.json)
 
-|                                                                      File Name                                                                      | Datatype  | Size |
+|                                                                      File Name                                                                      | Size |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- |
 | [`npipe6v20_030_hmap.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/fullsky/npipe6v20_030_hmap.fits)                   | 48.0 MiB  |      |
 | [`npipe6v20_030_map.fits`](https://g-456d30.0ed28.75bc.data.globus.org/public/planck/planck_pr4/fullsky/npipe6v20_030_map.fits)                     | 144.0 MiB |      |
