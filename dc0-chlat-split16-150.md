@@ -27,37 +27,37 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datarel
 - Total size: 60.0 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/manifest.json)
 
-|                                                                               File Name                                                                               |      Datatype       |  Size   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- |
-| [`dc0_chlat_t16.01_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.01_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.01_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.01_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.02_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.02_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.02_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.02_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.03_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.03_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.03_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.03_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.04_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.04_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.04_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.04_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.05_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.05_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.05_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.05_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.06_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.06_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.06_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.06_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.07_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.07_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.07_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.07_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.08_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.08_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.08_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.08_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.09_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.09_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.09_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.09_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.10_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.10_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.10_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.10_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.11_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.11_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.11_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.11_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.12_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.12_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.12_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.12_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.13_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.13_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.13_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.13_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.14_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.14_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.14_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.14_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.15_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.15_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.15_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.15_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
-| [`dc0_chlat_t16.16_150_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.16_150_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t16.16_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.16_150_map03.fits)           | Map: tp depth       | 1.5 GiB |
+|                                                                                File Name                                                                                |      Datatype       |  Size   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- |
+| [`dc0_chlat_t16.01_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.01_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.01_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.01_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.02_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.02_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.02_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.02_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.03_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.03_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.03_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.03_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.04_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.04_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.04_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.04_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.05_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.05_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.05_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.05_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.06_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.06_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.06_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.06_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.07_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.07_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.07_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.07_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.08_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.08_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.08_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.08_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.09_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.09_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.09_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.09_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.10_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.10_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.10_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.10_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.11_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.11_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.11_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.11_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.12_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.12_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.12_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.12_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.13_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.13_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.13_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.13_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.14_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.14_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.14_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.14_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.15_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.15_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.15_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.15_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
+| [`dc0_chlat_t16.16_150_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.16_150_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t16.16_150_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split16/150/dc0_chlat_t16.16_150_map03.fits)             | Map: tp depth       | 1.5 GiB |
