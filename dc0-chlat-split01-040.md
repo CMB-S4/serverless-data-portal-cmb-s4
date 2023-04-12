@@ -27,7 +27,7 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datarel
 - Total size: 3.8 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/040/manifest.json)
 
-|                                                                               File Name                                                                               |      Datatype       |  Size   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- |
-| [`dc0_chlat_t01.01_040_map02_c111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/040/dc0_chlat_t01.01_040_map02_c111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t01.01_040_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/040/dc0_chlat_t01.01_040_map03.fits)           | Map: tp depth       | 1.5 GiB |
+|                                                                                File Name                                                                                |      Datatype       |  Size   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- |
+| [`dc0_chlat_t01.01_040_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/040/dc0_chlat_t01.01_040_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
+| [`dc0_chlat_t01.01_040_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/040/dc0_chlat_t01.01_040_map03.fits)             | Map: tp depth       | 1.5 GiB |
