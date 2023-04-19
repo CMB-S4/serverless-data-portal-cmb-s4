@@ -16,6 +16,8 @@ CMB-S4 Data Challenges involve the simulation, reduction, and analysis of a mock
 
 DC-0 is the first execution of a Data Challenge run, it has been completed only for Large Aperture Telescopes located in Chile (`CHLAT`), the rest of the channels are still being worked on.
 
+The full documentation of the release will be published publicly, for now it is being worked on in the Github repository [`CMB-S4/DataChallenge0`](https://github.com/CMB-S4/DataChallenge0), only accessible to Github accounts members of the CMB-S4 Github organization.
+
 ## Data Access
 
 Data access is currently restricted to members of the CMB-S4 Collaboration via a Globus Group.
