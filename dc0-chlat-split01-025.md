@@ -1,7 +1,7 @@
 ---
 title: "CMB-S4 DC0 CHLAT Split01 025GHz"
 author: "CMB-S4 Collaboration"
-description: "CMB-S4 DC0 CHLAT Split01 025GHz"
+description: "CMB-S4 DC0 CHLAT Split01 025GHz. Simulated maps at 25GHz by the Simons Observatory Large Aperture Telescope in Chile."
 date_created: "2023-03-16"
 seo:
   type: Dataset
