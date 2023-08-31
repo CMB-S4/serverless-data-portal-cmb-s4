@@ -14,9 +14,9 @@ CMB-S4 Data Challenges involve the simulation, reduction, and analysis of a mock
 * to validate that the point design meets all of the project’s measurement and science requirements
 * to verify that the project pipelines run sufficiently fast on that generation’s computational architecture(s), and scale sufficiently well to the CMB-S4 data volume.
 
-DC-0 is the first execution of a Data Challenge run, it has been completed only for Large Aperture Telescopes located in Chile (`CHLAT`), the rest of the channels are still being worked on.
+DC-0 is the first execution of a Data Challenge run, it has been completed for Large Aperture Telescopes located in Chile (`CHLAT`) and the Small Aperture Telescopes located in the South Pole (`SPSAT`), the South Pole Large Aperture telescope (`SPLAT`) is still being worked on.
 
-The full documentation of the release will be published publicly, for now it is being worked on in the Github repository [`CMB-S4/DataChallenge0`](https://github.com/CMB-S4/DataChallenge0), only accessible to Github accounts members of the CMB-S4 Github organization.
+The full documentation of the release will be published publicly. For now, the best reference is the Technical Design to Measurement Requirements Appendix in the [`PBDR draft`](https://github.com/CMB-S4/PreliminaryBaselineDesignReport) in the Github repository, only accessible to members of the CMB-S4 Github organization.
 
 ## Data Access
 
@@ -36,13 +36,15 @@ The DC-0 data release includes a single Intensity and Polarization HEALPix map i
 and a second map which includes the map depth for Temperature and for Polarization.
 More details about the data products are available in the map FITS headers and in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (not available yet)]().
 
-All other data products are available on the CMB-S4 community filesystem at NERSC.
-
 ![depth map plot](images/cmbs4_dc0_map_depth.png)
 
 Depth map for temperature for Chilean LAT in Equatorial coordinates.
 
-Data splits are created by simulating each 1-hour long observation independently, then coadding all of them to create the full mission dataset `Split01` and coadding the observation in a round-robin fashion in 2, 4, 8, 16 and 32 independent maps.
+Data splits are created by simulating each 1-hour long observation independently, then coadding all of them to create the full mission dataset `Split01` and coadding the observation in a round-robin fashion in 2, 4, 8, 16 and 32 independent maps. The full mission data set and 2-way splits are available here.
+
+All other data products (including higher order data splits) are available on the CMB-S4 community filesystem at NERSC at `/global/cfs/cdirs/cmbs4/dc/dc0/mission/`.
+
+
 
 ## Datasets & Files
 
