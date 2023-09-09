@@ -17,6 +17,7 @@ For technical details about the portal, see the [About page](about.md).
 
 - [Data Challenge 0 (DC0)](dc0.html) - Data download is currently restricted to CMB-S4 Collaboration members
 - [Planck Public Release 4 (Planck PR4)](planck_pr4.html) - Public
+- [PanEx V1 Skies (PanEx V1)](panexv1.html) - Public
 
 ## Data Access 
 

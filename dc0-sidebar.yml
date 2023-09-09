@@ -1,0 +1,90 @@
+  - title: CMB-S4 Data Challenge 0 (DC0)
+    output: web
+    folderitems:
+    - title: Data Challenge 0 Release Page
+      url: "dc0.html"
+      output: web
+    - title: DC0 CHLAT Split01 025
+      url: "dc0-chlat-split01-025.html"
+      output: web
+    - title: DC0 CHLAT Split01 040
+      url: "dc0-chlat-split01-040.html"
+      output: web
+    - title: DC0 CHLAT Split01 090
+      url: "dc0-chlat-split01-090.html"
+      output: web
+    - title: DC0 CHLAT Split01 150
+      url: "dc0-chlat-split01-150.html"
+      output: web
+    - title: DC0 CHLAT Split01 230
+      url: "dc0-chlat-split01-230.html"
+      output: web
+    - title: DC0 CHLAT Split01 280
+      url: "dc0-chlat-split01-280.html"
+      output: web
+    - title: DC0 CHLAT Split02 025
+      url: "dc0-chlat-split02-025.html"
+      output: web
+    - title: DC0 CHLAT Split02 040
+      url: "dc0-chlat-split02-040.html"
+      output: web
+    - title: DC0 CHLAT Split02 090
+      url: "dc0-chlat-split02-090.html"
+      output: web
+    - title: DC0 CHLAT Split02 150
+      url: "dc0-chlat-split02-150.html"
+      output: web
+    - title: DC0 CHLAT Split02 230
+      url: "dc0-chlat-split02-230.html"
+      output: web
+    - title: DC0 CHLAT Split02 280
+      url: "dc0-chlat-split02-280.html"
+      output: web
+    - title: DC0 SPSAT Split01 025
+      url: "dc0-spsat-split01-025.html"
+      output: web
+    - title: DC0 SPSAT Split01 040
+      url: "dc0-spsat-split01-040.html"
+      output: web
+    - title: DC0 SPSAT Split01 085
+      url: "dc0-spsat-split01-085.html"
+      output: web
+    - title: DC0 SPSAT Split01 095
+      url: "dc0-spsat-split01-095.html"
+      output: web
+    - title: DC0 SPSAT Split01 145
+      url: "dc0-spsat-split01-145.html"
+      output: web
+    - title: DC0 SPSAT Split01 155
+      url: "dc0-spsat-split01-155.html"
+      output: web
+    - title: DC0 SPSAT Split01 230
+      url: "dc0-spsat-split01-230.html"
+      output: web
+    - title: DC0 SPSAT Split01 280
+      url: "dc0-spsat-split01-280.html"
+      output: web
+    - title: DC0 SPSAT Split02 025
+      url: "dc0-spsat-split02-025.html"
+      output: web
+    - title: DC0 SPSAT Split02 040
+      url: "dc0-spsat-split02-040.html"
+      output: web
+    - title: DC0 SPSAT Split02 085
+      url: "dc0-spsat-split02-085.html"
+      output: web
+    - title: DC0 SPSAT Split02 095
+      url: "dc0-spsat-split02-095.html"
+      output: web
+    - title: DC0 SPSAT Split02 145
+      url: "dc0-spsat-split02-145.html"
+      output: web
+    - title: DC0 SPSAT Split02 155
+      url: "dc0-spsat-split02-155.html"
+      output: web
+    - title: DC0 SPSAT Split02 230
+      url: "dc0-spsat-split02-230.html"
+      output: web
+    - title: DC0 SPSAT Split02 280
+      url: "dc0-spsat-split02-280.html"
+      output: web

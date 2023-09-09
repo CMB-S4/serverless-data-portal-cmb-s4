@@ -29,6 +29,30 @@ entries:
     - title: DC0 CHLAT Full mission maps 280
       url: "dc0-chlat-split01-280.html"
       output: web
+    - title: DC0 SPSAT Full mission maps 025
+      url: "dc0-spsat-split01-025.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 040
+      url: "dc0-spsat-split01-040.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 085
+      url: "dc0-spsat-split01-085.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 095
+      url: "dc0-spsat-split01-095.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 145
+      url: "dc0-spsat-split01-145.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 155
+      url: "dc0-spsat-split01-155.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 230
+      url: "dc0-spsat-split01-230.html"
+      output: web
+    - title: DC0 SPSAT Full mission maps 280
+      url: "dc0-spsat-split01-280.html"
+      output: web
   - title: Planck Public Release 4
     output: web
     folderitems:
