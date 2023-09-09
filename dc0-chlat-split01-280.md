@@ -2,7 +2,7 @@
 title: "CMB-S4 DC0 CHLAT Split01 280GHz"
 author: "CMB-S4 Collaboration"
 description: "CMB-S4 DC0 CHLAT Split01 280GHz"
-date_created: "2023-03-16"
+date_created: "2023-09-09"
 seo:
   type: Dataset
 ---
@@ -23,11 +23,16 @@ Download the [file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datarel
 
 ## Files
 
-- Number of files: 2
-- Total size: 3.8 GiB
+- Number of files: 7
+- Total size: 17.3 GiB
 - [JSON format file manifest](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/manifest.json)
 
-|                                                                                File Name                                                                                |      Datatype       |  Size   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- |
-| [`dc0_chlat_t01.01_280_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c1111.fits) | Map: filter+bin iqu | 2.3 GiB |
-| [`dc0_chlat_t01.01_280_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map03.fits)             | Map: tp depth       | 1.5 GiB |
+|                                                                                File Name                                                                                |                               Datatype                               |  Size   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------- |
+| [`dc0_chlat_t01.01_280_map02_c0001.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c0001.fits) | Map: filter+bin iqu map; unlensed primary CMB                        | 2.3 GiB |
+| [`dc0_chlat_t01.01_280_map02_c0010.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c0010.fits) | Map: filter+bin iqu map; lensing perturbation                        | 2.3 GiB |
+| [`dc0_chlat_t01.01_280_map02_c0100.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c0100.fits) | Map: filter+bin iqu map; extragalactic+galactic+dipole               | 2.3 GiB |
+| [`dc0_chlat_t01.01_280_map02_c1000.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c1000.fits) | Map: filter+bin iqu map; atmosphere+noise                            | 2.3 GiB |
+| [`dc0_chlat_t01.01_280_map02_c1111.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map02_c1111.fits) | Map: filter+bin iqu map; CMB+galactic+extragalactic+atmosphere+noise | 2.3 GiB |
+| [`dc0_chlat_t01.01_280_map03.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_map03.fits)             | Map: tp depth                                                        | 1.5 GiB |
+| [`dc0_chlat_t01.01_280_mat02.fits`](https://g-456d30.0ed28.75bc.data.globus.org/datareleases/dc0/mission/chlat/split01/280/dc0_chlat_t01.01_280_mat02.fits)             | Matrix: white noise covariance                                       | 4.5 GiB |
