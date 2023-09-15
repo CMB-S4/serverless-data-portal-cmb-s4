@@ -35,7 +35,7 @@ The DC-0 data release includes a single Intensity and Polarization HEALPix map i
 * Atmospheric and instrumental noise
 
 and a second map which includes the map depth for Temperature and for Polarization.
-More details about the data products are available in the map FITS headers and in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (not available yet)]().
+More details about the data products are available in the map FITS headers and in the [Validation of the CMB-S4 Conceptual Design with Data Challenge 0 document (in preparation, currently available only to CMB-S4 members)](https://github.com/CMB-S4/DataChallenge0).
 
 ![depth map plot](images/cmbs4_dc0_map_depth.png)
 
