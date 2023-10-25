@@ -53,6 +53,27 @@ entries:
     - title: DC0 SPSAT Full mission maps 280
       url: "dc0-spsat-split01-280.html"
       output: web
+  - title: PanEx V1 Skies (PanExV1)
+    output: web
+    folderitems:
+    - title: PanEx V1 Skies Release Page
+      url: "panexv1.html"
+      output: web
+    - title: PanExV1 combined_cmb_lensing_signal
+      url: "panexv1-combined_cmb_lensing_signal.html"
+      output: web
+    - title: PanExV1 combined_cmb_unlensed_dipole
+      url: "panexv1-combined_cmb_unlensed_dipole.html"
+      output: web
+    - title: PanExV1 combined_foregrounds_highcomplexity
+      url: "panexv1-combined_foregrounds_highcomplexity.html"
+      output: web
+    - title: PanExV1 combined_foregrounds_lowcomplexity
+      url: "panexv1-combined_foregrounds_lowcomplexity.html"
+      output: web
+    - title: PanExV1 combined_foregrounds_mediumcomplexity
+      url: "panexv1-combined_foregrounds_mediumcomplexity.html"
+      output: web
   - title: Planck Public Release 4
     output: web
     folderitems:
