@@ -4,4 +4,4 @@ NERSC_ENDPOINT='c9dc477a-3db5-4946-874d-a5dc7efcabcf'
 UCSD_DOMAIN='g-456d30.0ed28.75bc'
 NERSC_DOMAIN='g-9fdb0b.6b7bd8.0ec8'
 
-sed -i -e "s/$UCSD_ENDPOINT/$NERSC_ENDPOINT/g" -e "s/$UCSD_DOMAIN/$NERSC_DOMAIN/g" *dc0*md
+sed -i -e "s/$UCSD_ENDPOINT/$NERSC_ENDPOINT/g" -e "s/$UCSD_DOMAIN/$NERSC_DOMAIN/g" *dc0*chlat*md
