@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# looks for files named 'manifest.txt' and 'file-list.json' in cwd
-# merges into manifest.json based on remote file manifest format
+# creates manifest.json files in any folder that contains files in a hierarchy of folders
+# based on:
 # https://github.com/fair-research/bdbag/blob/master/doc/config.md#remote-file-manifest
 
 # Example
@@ -20,12 +20,6 @@
 #     }
 # ]
 
-# globus ls command
-# globus ls -l --format json 38f01147-f09e-483d-a552-3866669a846d:datareleases/npipe6v20/fullsky/ > file-list.json
-
-# checksum command
-# sha512sum *.fits > manifest.txt
-
 import os
 import sys
 import json
@@ -33,33 +27,31 @@ import glob
 import hashlib
 
 baseurl = sys.argv[1]
+# example NERSC
+# baseurl = "https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datareleases/dc0/mission/"
+# example UCSD
 # baseurl = 'https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/fullsky/'
-
-# URL that filename will be appended to
-# https://g-456d30.0ed28.75bc.data.globus.org/datareleases/npipe6v20/fullsky/
 
 BUFFER = 4*1073741824
 
-manifest_dict = {}
-l = glob.glob("**", recursive=True)
-try:
-    l.remove('manifest.json')
-except:
-    pass
-for i in l:
-    if not os.path.isdir(i):
+for dirpath, dirnames, filenames in os.walk("."):
+    manifest_dict = {}
+    for filename in filenames:
+        path = os.path.join(dirpath[2:], filename)
         sha512 = hashlib.sha512()
-        with open(i, "rb") as f:
+        with open(path, "rb") as f:
             while True:
                 data = f.read(BUFFER)
                 if not data:
                     break
                 sha512.update(data)
-        length = os.stat(i).st_size
-        manifest_dict[i] = {'sha512': sha512.hexdigest(),
-                            'filename': i,
-                            'url': baseurl + i,
+        length = os.stat(path).st_size
+        manifest_dict[path] = {'sha512': sha512.hexdigest(),
+                            'filename': path,
+                                'url': baseurl + path,
                             'length': length}
 
-with open('manifest.json', 'w') as f:
-    json.dump(list(manifest_dict.values()), f, indent=4)
+    if len(filenames) > 0:
+        with open(os.path.join(dirpath, 'manifest.json'), 'w') as f:
+            json.dump(list(manifest_dict.values()), f, indent=4)
+        print(dirpath)
