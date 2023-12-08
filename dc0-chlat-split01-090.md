@@ -2,7 +2,7 @@
 title: "CMB-S4 DC0 CHLAT Split01 090GHz"
 author: "CMB-S4 Collaboration"
 description: "CMB-S4 DC0 CHLAT Split01 090GHz"
-date_created: "2023-09-09"
+date_created: "2023-12-07"
 seo:
   type: Dataset
 ---
@@ -11,7 +11,7 @@ seo:
 
 # Dataset: CMB-S4 DC0 CHLAT Split01 090GHz
 
-- Telescope: Chilean Large Aperture Telescope (CHLAT) 
+- Telescope: Chilean Large Aperture Telescope (CHLAT)
 - Split: `01`
 - Frequency Band (GHz): `090`
 
@@ -27,8 +27,8 @@ Download the [file manifest](https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datare
 - Total size: 17.3 GiB
 - [JSON format file manifest](https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datareleases/dc0/mission/chlat/split01/090/manifest.json)
 
-|                                                                                File Name                                                                                |                               Datatype                               |  Size   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------- |
+|                                                                                File Name                                                                                 |                               Datatype                               |  Size   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------- |
 | [`dc0_chlat_t01.01_090_map02_c0001.fits`](https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datareleases/dc0/mission/chlat/split01/090/dc0_chlat_t01.01_090_map02_c0001.fits) | Map: filter+bin iqu map; unlensed primary CMB                        | 2.3 GiB |
 | [`dc0_chlat_t01.01_090_map02_c0010.fits`](https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datareleases/dc0/mission/chlat/split01/090/dc0_chlat_t01.01_090_map02_c0010.fits) | Map: filter+bin iqu map; lensing perturbation                        | 2.3 GiB |
 | [`dc0_chlat_t01.01_090_map02_c0100.fits`](https://g-9fdb0b.6b7bd8.0ec8.data.globus.org/datareleases/dc0/mission/chlat/split01/090/dc0_chlat_t01.01_090_map02_c0100.fits) | Map: filter+bin iqu map; extragalactic+galactic+dipole               | 2.3 GiB |
