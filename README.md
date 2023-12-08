@@ -37,3 +37,18 @@ The URL for NERSC should be:
 there `xxx` is the name of the release.
 
 `makemanifest.py` is the Python script that executed at the root of a data release transverse the hierarchy of folders and creates a `manifest.json` file in each folder directly containing data.
+This script is the only step in the process that **needs** to be executed where the data files are available, with writing access. So the easiest way at the moment is to login at NERSC with the `cmbs4` Collaboration account and execute the script.
+
+### Create file metadata JSON files
+
+The next step can be executed from any machine, no data access is necessary, we run a bash script that uses the `globus-cli` to gather information about all the files to be registered with the data portal, most notably the size.
+As output we have 1 JSON file for each data file.
+At the moment we have a simple bash script which builds all the filenames with nested loops and then calls `globus ls`.
+Unfortunately we need to customize the script for each data release, see as an example [`get-dc0-file-lists.sh`](./get-dc0-file-lists.sh).
+
+### Generate the pages
+
+The last step is a Python script that loads information about the files from the JSON files and writes all the markdown files, one page for each dataset.
+This script is highly customized for each dataset, see for example [`builddc0.py`](./builddc0.py).
+We also need to create a homepage for the release, mostly with documentation about it, see for example [`dc0.md`](./dc0.md).
+It also generates the sidebar, which we need to paste into `_data/sidebars/home_sidebar.yml` and the dataset table which we need to paste at the botttom of the homepage for the release.
