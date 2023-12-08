@@ -263,6 +263,132 @@ entries:
     - title: DC0 SPSAT Split32 280
       url: "dc0-spsat-split32-280.html"
       output: web
+    - title: DC0 SPLAT Full mission 020
+      url: "dc0-splat-split01-020.html"
+      output: web
+    - title: DC0 SPLAT Full mission 025
+      url: "dc0-splat-split01-025.html"
+      output: web
+    - title: DC0 SPLAT Full mission 040
+      url: "dc0-splat-split01-040.html"
+      output: web
+    - title: DC0 SPLAT Full mission 090
+      url: "dc0-splat-split01-090.html"
+      output: web
+    - title: DC0 SPLAT Full mission 150
+      url: "dc0-splat-split01-150.html"
+      output: web
+    - title: DC0 SPLAT Full mission 230
+      url: "dc0-splat-split01-230.html"
+      output: web
+    - title: DC0 SPLAT Full mission 280
+      url: "dc0-splat-split01-280.html"
+      output: web
+    - title: DC0 SPLAT Split02 020
+      url: "dc0-splat-split02-020.html"
+      output: web
+    - title: DC0 SPLAT Split02 025
+      url: "dc0-splat-split02-025.html"
+      output: web
+    - title: DC0 SPLAT Split02 040
+      url: "dc0-splat-split02-040.html"
+      output: web
+    - title: DC0 SPLAT Split02 090
+      url: "dc0-splat-split02-090.html"
+      output: web
+    - title: DC0 SPLAT Split02 150
+      url: "dc0-splat-split02-150.html"
+      output: web
+    - title: DC0 SPLAT Split02 230
+      url: "dc0-splat-split02-230.html"
+      output: web
+    - title: DC0 SPLAT Split02 280
+      url: "dc0-splat-split02-280.html"
+      output: web
+    - title: DC0 SPLAT Split04 020
+      url: "dc0-splat-split04-020.html"
+      output: web
+    - title: DC0 SPLAT Split04 025
+      url: "dc0-splat-split04-025.html"
+      output: web
+    - title: DC0 SPLAT Split04 040
+      url: "dc0-splat-split04-040.html"
+      output: web
+    - title: DC0 SPLAT Split04 090
+      url: "dc0-splat-split04-090.html"
+      output: web
+    - title: DC0 SPLAT Split04 150
+      url: "dc0-splat-split04-150.html"
+      output: web
+    - title: DC0 SPLAT Split04 230
+      url: "dc0-splat-split04-230.html"
+      output: web
+    - title: DC0 SPLAT Split04 280
+      url: "dc0-splat-split04-280.html"
+      output: web
+    - title: DC0 SPLAT Split08 020
+      url: "dc0-splat-split08-020.html"
+      output: web
+    - title: DC0 SPLAT Split08 025
+      url: "dc0-splat-split08-025.html"
+      output: web
+    - title: DC0 SPLAT Split08 040
+      url: "dc0-splat-split08-040.html"
+      output: web
+    - title: DC0 SPLAT Split08 090
+      url: "dc0-splat-split08-090.html"
+      output: web
+    - title: DC0 SPLAT Split08 150
+      url: "dc0-splat-split08-150.html"
+      output: web
+    - title: DC0 SPLAT Split08 230
+      url: "dc0-splat-split08-230.html"
+      output: web
+    - title: DC0 SPLAT Split08 280
+      url: "dc0-splat-split08-280.html"
+      output: web
+    - title: DC0 SPLAT Split16 020
+      url: "dc0-splat-split16-020.html"
+      output: web
+    - title: DC0 SPLAT Split16 025
+      url: "dc0-splat-split16-025.html"
+      output: web
+    - title: DC0 SPLAT Split16 040
+      url: "dc0-splat-split16-040.html"
+      output: web
+    - title: DC0 SPLAT Split16 090
+      url: "dc0-splat-split16-090.html"
+      output: web
+    - title: DC0 SPLAT Split16 150
+      url: "dc0-splat-split16-150.html"
+      output: web
+    - title: DC0 SPLAT Split16 230
+      url: "dc0-splat-split16-230.html"
+      output: web
+    - title: DC0 SPLAT Split16 280
+      url: "dc0-splat-split16-280.html"
+      output: web
+    - title: DC0 SPLAT Split32 020
+      url: "dc0-splat-split32-020.html"
+      output: web
+    - title: DC0 SPLAT Split32 025
+      url: "dc0-splat-split32-025.html"
+      output: web
+    - title: DC0 SPLAT Split32 040
+      url: "dc0-splat-split32-040.html"
+      output: web
+    - title: DC0 SPLAT Split32 090
+      url: "dc0-splat-split32-090.html"
+      output: web
+    - title: DC0 SPLAT Split32 150
+      url: "dc0-splat-split32-150.html"
+      output: web
+    - title: DC0 SPLAT Split32 230
+      url: "dc0-splat-split32-230.html"
+      output: web
+    - title: DC0 SPLAT Split32 280
+      url: "dc0-splat-split32-280.html"
+      output: web
   - title: PanEx V1 Skies (PanExV1)
     output: web
     folderitems:
