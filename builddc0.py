@@ -118,7 +118,7 @@ dc0_dsets_table_header = [
 ]
 dc0_dsets_table_data = []
 
-for mission in ("chlat", "spsat"):
+for mission in missions:
     for split in missions[mission]["splits"]:
         for band in missions[mission]["bands"]:
             dset_table_data = []
@@ -167,7 +167,7 @@ with open("dc0-sidebar.yml", "w") as f:
     f.write("    - title: Data Challenge 0 Release Page\n")
     f.write('      url: "dc0.html"\n')
     f.write("      output: web\n")
-    for mission in ("chlat", "spsat"):
+    for mission in missions:
         for split in missions[mission]["splits"]:
             for band in missions[mission]["bands"]:
                 f.write(f"    - title: DC0 {mission.upper()} Split{split} {band}\n")
