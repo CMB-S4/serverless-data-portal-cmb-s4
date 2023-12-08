@@ -170,6 +170,8 @@ with open("dc0-sidebar.yml", "w") as f:
     for mission in missions:
         for split in missions[mission]["splits"]:
             for band in missions[mission]["bands"]:
-                f.write(f"    - title: DC0 {mission.upper()} Split{split} {band}\n")
+                title = f"    - title: DC0 {mission.upper()} Split{split} {band}\n"
+                title = title.replace("Split01", "Full mission")
+                f.write(title)
                 f.write(f'      url: "dc0-{mission}-split{split}-{band}.html"\n')
                 f.write(f"      output: web\n")
