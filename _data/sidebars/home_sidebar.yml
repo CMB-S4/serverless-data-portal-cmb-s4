@@ -11,47 +11,257 @@ entries:
     - title: Data Challenge 0 Release Page
       url: "dc0.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 025
+    - title: DC0 CHLAT Split01 025
       url: "dc0-chlat-split01-025.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 040
+    - title: DC0 CHLAT Split01 040
       url: "dc0-chlat-split01-040.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 090
+    - title: DC0 CHLAT Split01 090
       url: "dc0-chlat-split01-090.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 150
+    - title: DC0 CHLAT Split01 150
       url: "dc0-chlat-split01-150.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 230
+    - title: DC0 CHLAT Split01 230
       url: "dc0-chlat-split01-230.html"
       output: web
-    - title: DC0 CHLAT Full mission maps 280
+    - title: DC0 CHLAT Split01 280
       url: "dc0-chlat-split01-280.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 025
+    - title: DC0 CHLAT Split02 025
+      url: "dc0-chlat-split02-025.html"
+      output: web
+    - title: DC0 CHLAT Split02 040
+      url: "dc0-chlat-split02-040.html"
+      output: web
+    - title: DC0 CHLAT Split02 090
+      url: "dc0-chlat-split02-090.html"
+      output: web
+    - title: DC0 CHLAT Split02 150
+      url: "dc0-chlat-split02-150.html"
+      output: web
+    - title: DC0 CHLAT Split02 230
+      url: "dc0-chlat-split02-230.html"
+      output: web
+    - title: DC0 CHLAT Split02 280
+      url: "dc0-chlat-split02-280.html"
+      output: web
+    - title: DC0 CHLAT Split04 025
+      url: "dc0-chlat-split04-025.html"
+      output: web
+    - title: DC0 CHLAT Split04 040
+      url: "dc0-chlat-split04-040.html"
+      output: web
+    - title: DC0 CHLAT Split04 090
+      url: "dc0-chlat-split04-090.html"
+      output: web
+    - title: DC0 CHLAT Split04 150
+      url: "dc0-chlat-split04-150.html"
+      output: web
+    - title: DC0 CHLAT Split04 230
+      url: "dc0-chlat-split04-230.html"
+      output: web
+    - title: DC0 CHLAT Split04 280
+      url: "dc0-chlat-split04-280.html"
+      output: web
+    - title: DC0 CHLAT Split08 025
+      url: "dc0-chlat-split08-025.html"
+      output: web
+    - title: DC0 CHLAT Split08 040
+      url: "dc0-chlat-split08-040.html"
+      output: web
+    - title: DC0 CHLAT Split08 090
+      url: "dc0-chlat-split08-090.html"
+      output: web
+    - title: DC0 CHLAT Split08 150
+      url: "dc0-chlat-split08-150.html"
+      output: web
+    - title: DC0 CHLAT Split08 230
+      url: "dc0-chlat-split08-230.html"
+      output: web
+    - title: DC0 CHLAT Split08 280
+      url: "dc0-chlat-split08-280.html"
+      output: web
+    - title: DC0 CHLAT Split16 025
+      url: "dc0-chlat-split16-025.html"
+      output: web
+    - title: DC0 CHLAT Split16 040
+      url: "dc0-chlat-split16-040.html"
+      output: web
+    - title: DC0 CHLAT Split16 090
+      url: "dc0-chlat-split16-090.html"
+      output: web
+    - title: DC0 CHLAT Split16 150
+      url: "dc0-chlat-split16-150.html"
+      output: web
+    - title: DC0 CHLAT Split16 230
+      url: "dc0-chlat-split16-230.html"
+      output: web
+    - title: DC0 CHLAT Split16 280
+      url: "dc0-chlat-split16-280.html"
+      output: web
+    - title: DC0 CHLAT Split32 025
+      url: "dc0-chlat-split32-025.html"
+      output: web
+    - title: DC0 CHLAT Split32 040
+      url: "dc0-chlat-split32-040.html"
+      output: web
+    - title: DC0 CHLAT Split32 090
+      url: "dc0-chlat-split32-090.html"
+      output: web
+    - title: DC0 CHLAT Split32 150
+      url: "dc0-chlat-split32-150.html"
+      output: web
+    - title: DC0 CHLAT Split32 230
+      url: "dc0-chlat-split32-230.html"
+      output: web
+    - title: DC0 CHLAT Split32 280
+      url: "dc0-chlat-split32-280.html"
+      output: web
+    - title: DC0 SPSAT Split01 025
       url: "dc0-spsat-split01-025.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 040
+    - title: DC0 SPSAT Split01 040
       url: "dc0-spsat-split01-040.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 085
+    - title: DC0 SPSAT Split01 085
       url: "dc0-spsat-split01-085.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 095
+    - title: DC0 SPSAT Split01 095
       url: "dc0-spsat-split01-095.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 145
+    - title: DC0 SPSAT Split01 145
       url: "dc0-spsat-split01-145.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 155
+    - title: DC0 SPSAT Split01 155
       url: "dc0-spsat-split01-155.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 230
+    - title: DC0 SPSAT Split01 230
       url: "dc0-spsat-split01-230.html"
       output: web
-    - title: DC0 SPSAT Full mission maps 280
+    - title: DC0 SPSAT Split01 280
       url: "dc0-spsat-split01-280.html"
+      output: web
+    - title: DC0 SPSAT Split02 025
+      url: "dc0-spsat-split02-025.html"
+      output: web
+    - title: DC0 SPSAT Split02 040
+      url: "dc0-spsat-split02-040.html"
+      output: web
+    - title: DC0 SPSAT Split02 085
+      url: "dc0-spsat-split02-085.html"
+      output: web
+    - title: DC0 SPSAT Split02 095
+      url: "dc0-spsat-split02-095.html"
+      output: web
+    - title: DC0 SPSAT Split02 145
+      url: "dc0-spsat-split02-145.html"
+      output: web
+    - title: DC0 SPSAT Split02 155
+      url: "dc0-spsat-split02-155.html"
+      output: web
+    - title: DC0 SPSAT Split02 230
+      url: "dc0-spsat-split02-230.html"
+      output: web
+    - title: DC0 SPSAT Split02 280
+      url: "dc0-spsat-split02-280.html"
+      output: web
+    - title: DC0 SPSAT Split04 025
+      url: "dc0-spsat-split04-025.html"
+      output: web
+    - title: DC0 SPSAT Split04 040
+      url: "dc0-spsat-split04-040.html"
+      output: web
+    - title: DC0 SPSAT Split04 085
+      url: "dc0-spsat-split04-085.html"
+      output: web
+    - title: DC0 SPSAT Split04 095
+      url: "dc0-spsat-split04-095.html"
+      output: web
+    - title: DC0 SPSAT Split04 145
+      url: "dc0-spsat-split04-145.html"
+      output: web
+    - title: DC0 SPSAT Split04 155
+      url: "dc0-spsat-split04-155.html"
+      output: web
+    - title: DC0 SPSAT Split04 230
+      url: "dc0-spsat-split04-230.html"
+      output: web
+    - title: DC0 SPSAT Split04 280
+      url: "dc0-spsat-split04-280.html"
+      output: web
+    - title: DC0 SPSAT Split08 025
+      url: "dc0-spsat-split08-025.html"
+      output: web
+    - title: DC0 SPSAT Split08 040
+      url: "dc0-spsat-split08-040.html"
+      output: web
+    - title: DC0 SPSAT Split08 085
+      url: "dc0-spsat-split08-085.html"
+      output: web
+    - title: DC0 SPSAT Split08 095
+      url: "dc0-spsat-split08-095.html"
+      output: web
+    - title: DC0 SPSAT Split08 145
+      url: "dc0-spsat-split08-145.html"
+      output: web
+    - title: DC0 SPSAT Split08 155
+      url: "dc0-spsat-split08-155.html"
+      output: web
+    - title: DC0 SPSAT Split08 230
+      url: "dc0-spsat-split08-230.html"
+      output: web
+    - title: DC0 SPSAT Split08 280
+      url: "dc0-spsat-split08-280.html"
+      output: web
+    - title: DC0 SPSAT Split16 025
+      url: "dc0-spsat-split16-025.html"
+      output: web
+    - title: DC0 SPSAT Split16 040
+      url: "dc0-spsat-split16-040.html"
+      output: web
+    - title: DC0 SPSAT Split16 085
+      url: "dc0-spsat-split16-085.html"
+      output: web
+    - title: DC0 SPSAT Split16 095
+      url: "dc0-spsat-split16-095.html"
+      output: web
+    - title: DC0 SPSAT Split16 145
+      url: "dc0-spsat-split16-145.html"
+      output: web
+    - title: DC0 SPSAT Split16 155
+      url: "dc0-spsat-split16-155.html"
+      output: web
+    - title: DC0 SPSAT Split16 230
+      url: "dc0-spsat-split16-230.html"
+      output: web
+    - title: DC0 SPSAT Split16 280
+      url: "dc0-spsat-split16-280.html"
+      output: web
+    - title: DC0 SPSAT Split32 025
+      url: "dc0-spsat-split32-025.html"
+      output: web
+    - title: DC0 SPSAT Split32 040
+      url: "dc0-spsat-split32-040.html"
+      output: web
+    - title: DC0 SPSAT Split32 085
+      url: "dc0-spsat-split32-085.html"
+      output: web
+    - title: DC0 SPSAT Split32 095
+      url: "dc0-spsat-split32-095.html"
+      output: web
+    - title: DC0 SPSAT Split32 145
+      url: "dc0-spsat-split32-145.html"
+      output: web
+    - title: DC0 SPSAT Split32 155
+      url: "dc0-spsat-split32-155.html"
+      output: web
+    - title: DC0 SPSAT Split32 230
+      url: "dc0-spsat-split32-230.html"
+      output: web
+    - title: DC0 SPSAT Split32 280
+      url: "dc0-spsat-split32-280.html"
       output: web
   - title: PanEx V1 Skies (PanExV1)
     output: web
