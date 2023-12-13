@@ -7,49 +7,10 @@ entries:
 
   - title: CMB-S4 Data Challenge 0 (DC0)
     output: web
-    folderitems:
-    - title: Data Challenge 0 Release Page
-      url: "dc0.html"
-      output: web
+    url: "dc0.html"
   - title: PanEx V1 Skies (PanExV1)
     output: web
-    folderitems:
-    - title: PanEx V1 Skies Release Page
-      url: "panexv1.html"
-      output: web
-    - title: PanExV1 combined_cmb_lensing_signal
-      url: "panexv1-combined_cmb_lensing_signal.html"
-      output: web
-    - title: PanExV1 combined_cmb_unlensed_dipole
-      url: "panexv1-combined_cmb_unlensed_dipole.html"
-      output: web
-    - title: PanExV1 combined_foregrounds_highcomplexity
-      url: "panexv1-combined_foregrounds_highcomplexity.html"
-      output: web
-    - title: PanExV1 combined_foregrounds_lowcomplexity
-      url: "panexv1-combined_foregrounds_lowcomplexity.html"
-      output: web
-    - title: PanExV1 combined_foregrounds_mediumcomplexity
-      url: "panexv1-combined_foregrounds_mediumcomplexity.html"
-      output: web
+    url: "panexv1.html"
   - title: Planck Public Release 4
     output: web
-    folderitems:
-    - title: Planck PR4
-      url: "planck_pr4.html"
-      output: web
-    - title: Planck PR4 Full sky maps
-      url: "planck_pr4-fullsky.html"
-      output: web
-    - title: Planck PR4 Half ring maps
-      url: "planck_pr4-half_ring.html"
-      output: web
-    - title: Planck PR4 Low resolution
-      url: "planck_pr4-lowres.html"
-      output: web
-    - title: Planck PR4 Effective beams
-      url: "planck_pr4-quickpol.html"
-      output: web
-    - title: Planck PR4 Single detector
-      url: "planck_pr4-single.html"
-      output: web
+    url: "planck_pr4.html"
