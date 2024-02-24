@@ -5,21 +5,21 @@ entries:
   levels: one
   folders:
 
-  - title: CMB-S4 Data Challenge 0 (DC0)
+  - title: CMB-S4
     output: web
     folderitems:
-    - title: Data Challenge 0 Release Page
+    - title: CMB-S4 Data Challenge 0 Release Page
       url: "dc0.html"
       output: web
-  - title: PanEx V1 Skies (PanExV1)
+  - title: PanExperiment Galactic Science group Skies
     output: web
     folderitems:
-    - title: PanEx V1 Skies Release Page
+    - title: PanEx V1 Skies for CMB-S4
       url: "panexv1.html"
       output: web
-  - title: Planck Public Release 4
+  - title: Planck
     output: web
     folderitems:
-    - title: Planck PR4
+    - title: Planck Public Release 4
       url: "planck_pr4.html"
       output: web
