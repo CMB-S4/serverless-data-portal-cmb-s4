@@ -8,18 +8,18 @@ entries:
   - title: CMB-S4
     output: web
     folderitems:
-    - title: CMB-S4 Data Challenge 0 Release Page
+    - title: Data Challenge 0
       url: "dc0.html"
       output: web
-  - title: PanExperiment Galactic Science group Skies
+  - title: Pan-Experiment Galactic Science Group Skies
     output: web
     folderitems:
-    - title: PanEx V1 Skies for CMB-S4
+    - title: PanEx V1 Skies
       url: "panexv1.html"
       output: web
   - title: Planck
     output: web
     folderitems:
-    - title: Planck Public Release 4
+    - title: Public Release 4
       url: "planck_pr4.html"
       output: web
