@@ -17,7 +17,7 @@ CMB-S4 Data Challenges involve the simulation, reduction, and analysis of a mock
 
 DC-0 is the first execution of a Data Challenge run, it has been completed for Large Aperture Telescopes located in Chile (`CHLAT`), the Small Aperture Telescopes located in the South Pole (`SPSAT`) and the South Pole Large Aperture telescope (`SPLAT`).
 
-The full documentation of the release will be made available publicly. For now, the best reference is the Technical Design to Measurement Requirements Appendix in the [`PBDR draft`](https://github.com/CMB-S4/PreliminaryBaselineDesignReport) in the Github repository, only accessible to members of the CMB-S4 Github organization.
+The full documentation of the release will be made available publicly. The documentation for DC0 is in the [`DC0 repository`](https://github.com/CMB-S4/DataChallenge0) on Github, only accessible to members of the CMB-S4 Github organization.
 
 ## Data Access
 
