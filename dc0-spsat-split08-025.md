@@ -4,7 +4,7 @@ author: "CMB-S4 Collaboration"
 description: "CMB-S4 DC0 SPSAT Split08 025GHz"
 date_created: "2023-12-07"
 seo:
-  type: Dataset
+  type: Webpage
   name: dc0-spsat-split08-025
 ---
 
