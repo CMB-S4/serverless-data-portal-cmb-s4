@@ -5,6 +5,8 @@ description: "CMB-S4 DC0 SPSAT Split08 025GHz"
 date_created: "2023-12-07"
 seo:
   type: WebPage
+  mainEntityOfPage:
+    type: WebPage
 ---
 
 [Back to release](./dc0.html#datasets)
