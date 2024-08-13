@@ -1,5 +1,5 @@
 ---
-title: "Dataset: PanEx V1 Skies Simons Observatory galactic_foregrounds_lowcomplexity"
+title: "Dataset: PanEx V1 Skies Simons Observatory galactic foregrounds lowcomplexity"
 author: "Simons Observatory Collaboration"
 description: "PanEx V1 Skies SO galactic_foregrounds_lowcomplexity"
 date_created: "2023-03-21"

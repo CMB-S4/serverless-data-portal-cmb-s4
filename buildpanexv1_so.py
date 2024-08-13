@@ -37,8 +37,10 @@ def write_dataset(dset, n_files, data_size, file_table_rows):
         margin=1
         )
 
+    dsettext = dset.replace("_", " ")
+
     dset_text = f"""---
-title: "Dataset: PanEx V1 Skies Simons Observatory {dset}"
+title: "Dataset: PanEx V1 Skies Simons Observatory {dsettext}"
 author: "Simons Observatory Collaboration"
 description: "PanEx V1 Skies SO {dset}"
 date_created: "2023-03-21"

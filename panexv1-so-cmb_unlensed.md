@@ -1,5 +1,5 @@
 ---
-title: "Dataset: PanEx V1 Skies Simons Observatory cmb_unlensed"
+title: "Dataset: PanEx V1 Skies Simons Observatory cmb unlensed"
 author: "Simons Observatory Collaboration"
 description: "PanEx V1 Skies SO cmb_unlensed"
 date_created: "2023-03-21"
