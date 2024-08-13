@@ -14,7 +14,7 @@ entries:
   - title: Pan-Experiment Galactic Science Group Skies
     output: web
     folderitems:
-    - title: PanEx V1 Skies
+    - title: CMB-S4
       url: "panexv1.html"
       output: web
   - title: Planck

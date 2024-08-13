@@ -7,7 +7,7 @@ date_created: "2023-09-12"
 
 [Back to catalog](./#data-releases)
 
-# Data Release: PanEx V1 Skies (PanExV1)
+# Data Release: CMB-S4 PanEx V1 Skies (PanExV1)
 
 ## Description
 
