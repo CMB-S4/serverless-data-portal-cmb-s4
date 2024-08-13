@@ -21,10 +21,11 @@ also access the data through the Globus web interface: [![Download via Globus](i
 
 Browse the datasets to view the list of files available and download them individually through your browser.
 
-|                            Link                            |                Dataset                | Number of Files | Total Size |
-| ---------------------------------------------------------- | ------------------------------------- | --------------- | ---------- |
-| [Link](panexv1-combined_cmb_lensing_signal.html)           | combined_cmb_lensing_signal           | `21`            | 29.5 GiB   |
-| [Link](panexv1-combined_cmb_unlensed_dipole.html)          | combined_cmb_unlensed_dipole          | `21`            | 29.5 GiB   |
-| [Link](panexv1-combined_foregrounds_highcomplexity.html)   | combined_foregrounds_highcomplexity   | `21`            | 29.5 GiB   |
-| [Link](panexv1-combined_foregrounds_lowcomplexity.html)    | combined_foregrounds_lowcomplexity    | `21`            | 29.5 GiB   |
-| [Link](panexv1-combined_foregrounds_mediumcomplexity.html) | combined_foregrounds_mediumcomplexity | `21`            | 29.5 GiB   |
+|                             Link                              |                Dataset                | Number of Files | Total Size |
+| ------------------------------------------------------------- | ------------------------------------- | --------------- | ---------- |
+| [Link](panexv1-so-cmb_unlensed.html)                          | cmb_unlensed                          | `24`            | 124.9 GiB  |
+| [Link](panexv1-so-galactic_foregrounds_highcomplexity.html)   | galactic_foregrounds_highcomplexity   | `12`            | 37.5 GiB   |
+| [Link](panexv1-so-galactic_foregrounds_mediumcomplexity.html) | galactic_foregrounds_mediumcomplexity | `12`            | 37.5 GiB   |
+| [Link](panexv1-so-cmb.html)                                   | cmb                                   | `24`            | 124.9 GiB  |
+| [Link](panexv1-so-extragalactic.html)                         | extragalactic                         | `24`            | 124.9 GiB  |
+| [Link](panexv1-so-galactic_foregrounds_lowcomplexity.html)    | galactic_foregrounds_lowcomplexity    | `12`            | 37.5 GiB   |
