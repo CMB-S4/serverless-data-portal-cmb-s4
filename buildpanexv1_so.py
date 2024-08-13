@@ -38,7 +38,7 @@ def write_dataset(dset, n_files, data_size, file_table_rows):
         )
 
     dset_text = f"""---
-title: "PanEx V1 Skies Simons Observatory {dset}"
+title: "Dataset: PanEx V1 Skies Simons Observatory {dset}"
 author: "Simons Observatory Collaboration"
 description: "PanEx V1 Skies SO {dset}"
 date_created: "2023-03-21"
@@ -47,9 +47,6 @@ seo:
 ---
 
 [Back to release](./{RELEASE_NAME}.html#datasets)
-
-# Dataset: PanEx V1 Skies Simons Observatory {dset}
-
 See [data access](./{RELEASE_NAME}.html#data-access) on the Data Release page.
 
 Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id={ENDPOINT}&origin_path=%2F{FOLDER}%2F{dset}%2F)

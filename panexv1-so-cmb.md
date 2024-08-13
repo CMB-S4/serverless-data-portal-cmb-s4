@@ -1,5 +1,5 @@
 ---
-title: "PanEx V1 Skies Simons Observatory cmb"
+title: "Dataset: PanEx V1 Skies Simons Observatory cmb"
 author: "Simons Observatory Collaboration"
 description: "PanEx V1 Skies SO cmb"
 date_created: "2023-03-21"
@@ -8,9 +8,6 @@ seo:
 ---
 
 [Back to release](./panexv1-so.html#datasets)
-
-# Dataset: PanEx V1 Skies Simons Observatory cmb
-
 See [data access](./panexv1-so.html#data-access) on the Data Release page.
 
 Access the data through the Globus web interface: [![Download via Globus](images/globus-logo.png)](https://app.globus.org/file-manager?origin_id=53b2a147-ae9d-4bbf-9d18-3b46d133d4bb&origin_path=%2Fmbs-s0012-20230321%2Fcmb%2F)
