@@ -17,6 +17,9 @@ entries:
     - title: CMB-S4
       url: "panexv1.html"
       output: web
+    - title: Simons Observatory
+      url: "panexv1-so.html"
+      output: web
   - title: Planck
     output: web
     folderitems:
