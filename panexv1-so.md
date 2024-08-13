@@ -11,6 +11,8 @@ date_created: "2023-03-21"
 
 ## Description
 
+See the [documentation in the `simonsobs/map_based_simulations` repository](https://github.com/simonsobs/map_based_simulations/tree/master/mbs-s0012-20230321#readme)
+
 ## Data Access
 
 The PanEx V1 Skies datasets are is publicly available. Individual
