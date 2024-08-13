@@ -23,14 +23,14 @@ def sizeof_fmt(num, suffix="B"):
     return f"{num:.1f} Yi{suffix}"
 
 def get_fileinfo(fname):
-    fileinfo = fname.split('_')
-    telescope = fileinfo[-3]
-    freq = fileinfo[-2][1:]
-    nside = fileinfo[-1][5:-5]
-    return (telescope, freq, nside)
+    fileinfo = fname.split(".")[0].split('_')
+    telescope = fileinfo[2]
+    freq = str(int(fileinfo[4][1:]))
+    pixelization = fileinfo[-1]
+    return (telescope, freq, pixelization)
 
 def write_dataset(dset, n_files, data_size, file_table_rows):
-    dset_table_header = ["File Name", "Telescope", "Frequency Band (GHz)", "Nside", "Size"]
+    dset_table_header = ["File Name", "Telescope", "Frequency Band (GHz)", "Pixelization", "Size"]
     writer = MarkdownTableWriter(
         headers=dset_table_header,
         value_matrix=file_table_rows,
