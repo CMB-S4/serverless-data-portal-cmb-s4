@@ -20,6 +20,9 @@ entries:
     - title: Simons Observatory
       url: "panexv1-so.html"
       output: web
+    - title: LiteBIRD
+      url: "panexv1-litebird.html"
+      output: web
   - title: Planck
     output: web
     folderitems:
