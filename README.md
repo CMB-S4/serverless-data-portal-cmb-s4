@@ -4,13 +4,20 @@
 
 Proof-of-concept for a data portal using static pages.
 
-## NERSC Globus endpoint
+## NERSC Globus endpoints
 
-The datasets shared by the data portal are in the NERSC Community file system at:
+The data portal supports having datasets stored on different Globus Endpoints, as long as they support HTTPS access (so that people can download data directly).
+The easiest way is to host data at NERSC and activate a [Guest Collection](https://docs.nersc.gov/services/globus/#guest-collections).
+At the moment we have them activated on the `cmb` and the `cmbs4` projects,
+therefore any data under:
 
     /global/cfs/projectdirs/cmbs4/gsharing/
+    /global/cfs/projectdirs/cmb/gsharing/
 
-through a read-only [Globus Connection named "CMB-S4 Data Portal at NERSC"](https://app.globus.org/file-manager/collections/c9dc477a-3db5-4946-874d-a5dc7efcabcf/)
+The collections on Globus:
+
+* [Globus Connection named "CMB-S4 Data Portal at NERSC"](https://app.globus.org/file-manager/collections/c9dc477a-3db5-4946-874d-a5dc7efcabcf/)
+* [CMB Collection](https://app.globus.org/file-manager/collections/53b2a147-ae9d-4bbf-9d18-3b46d133d4bb/overview)
 
 ## How to prepare a release
 
