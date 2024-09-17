@@ -23,6 +23,9 @@ entries:
     - title: LiteBIRD
       url: "panexv1-litebird.html"
       output: web
+    - title: South Pole Telescope 3G
+      url: "panexv1-spt.html"
+      output: web
   - title: Planck
     output: web
     folderitems:
