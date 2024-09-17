@@ -46,10 +46,10 @@ def write_dataset(dset, n_files, data_size, file_table_rows):
     dsettext = dset.replace("_", " ")
 
     dset_text = f"""---
-title: "Dataset: PanEx V1 Skies Simons Observatory {dsettext}"
-author: "Simons Observatory Collaboration"
-description: "PanEx V1 Skies SO {dset}"
-date_created: "2023-03-21"
+title: "Dataset: PanEx V1 Skies SPT3G {dsettext}"
+author: "Panexperiment Galactic Science Group"
+description: "PanEx V1 Skies SPT3G {dset}"
+date_created: "2024-09-17"
 seo:
   type: Dataset
 ---
@@ -69,7 +69,7 @@ Download the [file manifest](https://{DOMAIN}.data.globus.org/{FOLDER}/{dset}/ma
 
 """
 
-    with open(f'{RELEASE_NAME}-{ref_frame}-{dset}.md', 'w') as f:
+    with open(f'{RELEASE_NAME}-{dset}.md', 'w') as f:
         f.write(dset_text)
         f.write(writer.dumps())
 
@@ -77,30 +77,29 @@ Download the [file manifest](https://{DOMAIN}.data.globus.org/{FOLDER}/{dset}/ma
 dsets_table_header = ["Link", "Dataset", "Number of Files", "Total Size"]
 dsets_table_data = []
 
-for ref_frame in ["equatorial", "galactic"]:
-    for dset in dsets:
-        dset_table_data = []
-        # load file list
-        with open(f'{RELEASE_NAME}-{ref_frame}-{dset}.json') as f:
-            file_data = json.load(f)
-            file_list = file_data["DATA"]
-            # loop over files, build file table info for dataset
-            # remove manifest from list
-            # total up bytes in dataset
-            total_bytes = 0
-            n_files = len(file_list) - 1
-            for file_entry in file_list:
-                fname = file_entry['name']
-                if not fname == 'manifest.json':
-                    total_bytes += file_entry['size']
-                    fsize = sizeof_fmt(file_entry['size'])
-                    columns = get_fileinfo(fname)
-                    flink = f'[`{fname}`](https://{DOMAIN}.data.globus.org/{FOLDER}/{ref_frame}/{dset}/{fname})'
-                    dset_table_data.append([flink]+columns+[fsize])
-            dset_size = sizeof_fmt(total_bytes)
-            write_dataset(dset, n_files, dset_size, dset_table_data)
-            dset_url = f'[Link]({RELEASE_NAME}-{ref_frame}-{dset}.html)'
-            dsets_table_data.append([dset_url, f'{dset}', f'`{n_files}`', dset_size])
+for dset in dsets:
+    dset_table_data = []
+    # load file list
+    with open(f'{RELEASE_NAME}-{dset}.json') as f:
+        file_data = json.load(f)
+        file_list = file_data["DATA"]
+        # loop over files, build file table info for dataset
+        # remove manifest from list
+        # total up bytes in dataset
+        total_bytes = 0
+        n_files = len(file_list) - 1
+        for file_entry in file_list:
+            fname = file_entry['name']
+            if not fname == 'manifest.json':
+                total_bytes += file_entry['size']
+                fsize = sizeof_fmt(file_entry['size'])
+                columns = get_fileinfo(fname)
+                flink = f'[`{fname}`](https://{DOMAIN}.data.globus.org/{FOLDER}/{dset}/{fname})'
+                dset_table_data.append([flink]+columns+[fsize])
+        dset_size = sizeof_fmt(total_bytes)
+        write_dataset(dset, n_files, dset_size, dset_table_data)
+        dset_url = f'[Link]({RELEASE_NAME}-{dset}.html)'
+        dsets_table_data.append([dset_url, f'`{dset}`', f'`{n_files}`', dset_size])
 
     writer = MarkdownTableWriter(
         headers=dsets_table_header,
@@ -108,5 +107,5 @@ for ref_frame in ["equatorial", "galactic"]:
         margin=1
         )
 
-    with open(f'{RELEASE_NAME}-{ref_frame}-dset-table.md', 'w') as f:
+    with open(f'{RELEASE_NAME}-dset-table.md', 'w') as f:
         f.write(writer.dumps())
