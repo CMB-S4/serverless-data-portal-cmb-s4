@@ -32,3 +32,9 @@ entries:
     - title: Public Release 4
       url: "planck_pr4.html"
       output: web
+  - title: Half Dome
+    output: web
+    folderitems:
+    - title: Half Dome simulation
+      url: "halfdome.html"
+      output: web
