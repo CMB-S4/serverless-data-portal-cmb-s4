@@ -88,7 +88,7 @@ for dset in dsets:
                 total_bytes += file_entry['size']
                 fsize = sizeof_fmt(file_entry['size'])
                 (telescope, freq, nside) = get_fileinfo(fname)
-                flink = f'[`{fname}`](https://g-456d30.0ed28.75bc.data.globus.org/{FOLDER}/{dset}/{fname})'
+                flink = f'[`{fname}`](https://{DOMAIN}.data.globus.org/{FOLDER}/{dset}/{fname})'
                 dset_table_data.append([flink, telescope, freq, nside, fsize])
         dset_size = sizeof_fmt(total_bytes)
         write_dataset(dset, n_files, dset_size, dset_table_data)
