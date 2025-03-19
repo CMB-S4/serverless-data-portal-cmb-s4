@@ -25,7 +25,7 @@ def sizeof_fmt(num, suffix="B"):
 def get_fileinfo(fname):
     fileinfo = fname.split(".")[0].split('_')
     telescope = fileinfo[2]
-    freq = str(int(fileinfo[4][1:]))
+    freq = str(int(fileinfo[4]))
     pixelization = fileinfo[-1]
     return (telescope, freq, pixelization)
 
