@@ -11,7 +11,7 @@ entries:
     - title: Data Challenge 0
       url: "dc0.html"
       output: web
-  - title: Pan-Experiment Galactic Science Group Skies
+  - title: Pan-Experiment Galactic Science Group Sky simulations
     output: web
     folderitems:
     - title: CMB-S4
@@ -25,6 +25,9 @@ entries:
       output: web
     - title: South Pole Telescope 3G
       url: "panexv1-spt.html"
+      output: web
+    - title: Planck
+      url: "panexv1-planck.html"
       output: web
   - title: Planck
     output: web
