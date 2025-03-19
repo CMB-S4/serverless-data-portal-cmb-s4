@@ -29,6 +29,12 @@ entries:
     - title: Planck
       url: "panexv1-planck.html"
       output: web
+    - title: WMAP
+      url: "panexv1-wmap.html"
+      output: web
+    - title: Component Separation study
+      url: "panexv1-compsep.html"
+      output: web
   - title: Planck
     output: web
     folderitems:
