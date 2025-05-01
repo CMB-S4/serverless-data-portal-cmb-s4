@@ -1,0 +1,30 @@
+|                                  Link                                  |                   Dataset                    | Number of Files | Total Size |
+| ---------------------------------------------------------------------- | -------------------------------------------- | --------------- | ---------- |
+| [Link](panexv1-bk18-ame_a1.html)                                       | ame_a1                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-dust_d9.html)                                      | dust_d9                                      | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-radio_rg1.html)                                    | radio_rg1                                    | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-ame_a2.html)                                       | ame_a2                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-freefree_f1.html)                                  | freefree_f1                                  | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-radio_rg2.html)                                    | radio_rg2                                    | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-cib_cib1.html)                                     | cib_cib1                                     | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_d1s1.html)                    | galactic_foregrounds_d1s1                    | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-radio_rg3.html)                                    | radio_rg3                                    | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-cmb_c3.html)                                       | cmb_c3                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_highcomplexity.html)          | galactic_foregrounds_highcomplexity          | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-synchrotron_s1.html)                               | synchrotron_s1                               | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-cmb_c4.html)                                       | cmb_c4                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_highcomplexity_websky.html)   | galactic_foregrounds_highcomplexity_websky   | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-synchrotron_s4.html)                               | synchrotron_s4                               | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-co_co1.html)                                       | co_co1                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_lowcomplexity.html)           | galactic_foregrounds_lowcomplexity           | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-synchrotron_s5.html)                               | synchrotron_s5                               | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-co_co3.html)                                       | co_co3                                       | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_lowcomplexity_websky.html)    | galactic_foregrounds_lowcomplexity_websky    | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-synchrotron_s7.html)                               | synchrotron_s7                               | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-dust_d1.html)                                      | dust_d1                                      | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_mediumcomplexity.html)        | galactic_foregrounds_mediumcomplexity        | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-tsz_tsz1.html)                                     | tsz_tsz1                                     | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-dust_d10.html)                                     | dust_d10                                     | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-galactic_foregrounds_mediumcomplexity_websky.html) | galactic_foregrounds_mediumcomplexity_websky | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-dust_d12.html)                                     | dust_d12                                     | `4`             | 576.0 MiB  |
+| [Link](panexv1-bk18-ksz_ksz1.html)                                     | ksz_ksz1                                     | `4`             | 576.0 MiB  |
