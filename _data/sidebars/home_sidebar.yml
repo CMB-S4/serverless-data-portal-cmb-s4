@@ -26,6 +26,9 @@ entries:
     - title: South Pole Telescope 3G
       url: "panexv1-spt.html"
       output: web
+    - title: Bicep Keck
+      url: "panexv1-bk18.html"
+      output: web
     - title: Planck
       url: "panexv1-planck.html"
       output: web
